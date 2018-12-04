@@ -1,8 +1,18 @@
 ---
-title: "La consulta del NAIM"
+title: "La consulta del NAIM: parte 1"
 output: html_document
+date: 2018-11-04
 ---
 
+Este es un primer análisis de los resultados de la consulta realizada por Morena y el equipo del presidente electo sobre la decisión de continuar con la construcción del Nuevo Aeropuerto Internacional de México en Texcoco u optar por el sistema formado por el Aeropuerto Internacional Benito Juárez, el Aeropuerto de Toluca y dos pistas en la Base Militar de Santa Lucía.
+
+No hablaré sobre la legalidad -o alegalidad- de la consulta, ya que en su calidad de ciudadanos y pagada con recursos de sus legisladores, no hay nada que les impida llevarla a cabo, pero lo que considero ilegal es que el eventual gobierno de AMLO haga vinculantes los resultados de este ejercicio. 
+
+En esta primera parte sólo abordaré los resultados a nivel estado de la consulta, en las partes siguientes trataré sobre la localización de las casillas y los resultados desglosados por casilla y por día.
+
+1. Votos por Santa Lucía
+
+![](/Volumes/DANIEL/GitHub/contenido/blog/static/post/2018-11-04-consultaNAIM_files/figure-html/SantaLucia.png)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -21,7 +31,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
+```{r pressure, echo=TRUE}
 plot(pressure)
 ```
 
