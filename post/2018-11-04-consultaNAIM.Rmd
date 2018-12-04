@@ -12,27 +12,20 @@ En esta primera parte sólo abordaré los resultados a nivel estado de la consul
 
 1. Votos por Santa Lucía
 
-![](images/SantaLucia.png)
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+![](/post/2018-11-04-consultaNAIM_files/figure-html/SantaLucia.png)
 
-## R Markdown
+Las entidades donde más personas votaron por Santa Lucía fueron la Ciudad de México, el Estado de México, Veracruz y Tabasco. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+2. Votos por Texcoco
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+![](/post/2018-11-04-consultaNAIM_files/figure-html/Texcoco.png)
 
-```{r cars}
-summary(cars)
-```
+Continuar con la construcción del aeropuerto en Texcoco recibió menos votos que Santa Lucía. Las entidades donde más personas escogieron esta opción fueron la Ciudad de México, Estado de México, Jalisco y Veracruz.
 
-## Including Plots
+3. Diferencia
 
-You can also embed plots, for example:
+![](/post/2018-11-04-consultaNAIM_files/figure-html/diferencia.png)
 
-```{r pressure, echo=TRUE}
-plot(pressure)
-```
+Comparando la diferencia entre cada opción por estado, Texcoco solamente ganó a Santa Lucía en Nuevo León. Las entidades donde la diferencia fue mayor son la Ciudad de México, Estado de México, Tabasco y Veracruz. 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Tanto la Ciudad de México como Tabasco contaron con cobertura en cada una de las demarcaciones o municipios, ambos pueden considerarse bastiones de AMLO ya que gobernó la primera entre 2000 y 2005, y es originario del segundo, estado que trató de gobernar en 1988 y 1994. 
