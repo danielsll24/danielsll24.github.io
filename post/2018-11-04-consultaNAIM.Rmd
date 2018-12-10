@@ -29,3 +29,64 @@ Continuar con la construcción del aeropuerto en Texcoco recibió menos votos qu
 Comparando la diferencia entre cada opción por estado, Texcoco solamente ganó a Santa Lucía en Nuevo León. Las entidades donde la diferencia fue mayor son la Ciudad de México, Estado de México, Tabasco y Veracruz. 
 
 Tanto la Ciudad de México como Tabasco contaron con cobertura en cada una de las demarcaciones o municipios, ambos pueden considerarse bastiones de AMLO ya que gobernó la primera entre 2000 y 2005, y es originario del segundo, estado que trató de gobernar en 1988 y 1994. 
+
+4. Total de votos
+
+![](/post/2018-11-04-consultaNAIM_files/figure-html/ambos.png)
+
+Los estados donde se recabaron más votos en total fueron la Ciudad de México, el Estado de México, Veracruz, Tabasco y Puebla.
+
+5. Regresiones
+
+Hice dos modelos de regresión lineal, en el primero utilizo como variable dependiente el voto por la opción de Santa Lucía, en el segundo la variable dependiente es el voto por continuar la construcción del aeropuerto en Texcoco.
+Los resultados electorales los obtuve de la página del INE.
+
+Modelo 1: Santa Lucía
+
+Variables independientes | (1) | (2)
+---|---|---
+Votos AMLO 1 julio   |          0.033***       |          0.012**        
+ -                     |           (0.003)       |          (0.005)        
+Padrón                |                         |         -0.002         
+-                      |                           |       (0.003)        
+Número.de.casillas     |                       |         131.234*        
+ -                       |                               (64.342)        
+Votación.total.consulta   |                      |       0.611***        
+ -                          |                      |       (0.036)        
+Votación.1.julio        |                        |        -0.005         
+ -                        |                        |       (0.007)        
+Constant                 |     -6,921.710*       |       1,996.557       
+-                         |     (3,749.073)        |     (1,314.523)      
+-|-|-
+Observations       |               32         |             32           
+R2                 |              0.805       |            0.986         
+Adjusted R2        |              0.799       |            0.983         
+Residual Std. Error  |    14,346.860 (df = 30) |    4,108.181 (df = 26)  
+F Statistic         |    123.852*** (df = 1; 30)| 370.073*** (df = 5; 26)
+=======================================================================
+Note:                                       *p<0.1; **p<0.05; ***p<0.01
+
+
+Modelo 2: Texcoco
+
+Variables independientes | (1) | (2)
+---|--|--
+VotosNoAMLO      |              0.018***        |       0.015***        
+-|                               (0.002)       |          (0.005)        
+Padrón          |                              |         -0.004         
+ -|                                            |          (0.003)        
+Número.de.casillas   |                         |        -100.416*       
+-|                   |                         |          (54.914)        
+Votación.total.consulta   |                    |        0.324***        
+ -|                      |                     |           (0.031)        
+Votación.1.julio       |                        |         0.002         
+-|                     |                         |         (0.005)        
+Constant      |               -5,171.872*      |       -1,826.119       
+ -|                            (2,550.082)       |      (1,121.900)      
+Observations    |                  32            |         32           
+R2              |                0.681           |        0.964         
+Adjusted R2      |               0.670            |       0.957         
+Residual Std. Error   |   9,718.583 (df = 30)  |   3,506.190 (df = 26)  
+F Statistic         |    63.963*** (df = 1; 30) |139.185*** (df = 5; 26)
+======================================================================
+Note:                                      *p<0.1; **p<0.05; ***p<0.01
