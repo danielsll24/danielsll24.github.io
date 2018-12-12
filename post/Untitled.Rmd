@@ -1,0 +1,67 @@
+---
+title: "Los discursos del 1 de diciembre"
+output: html_document
+date: 2018-12-11
+---
+
+El sábado 1 de diciembre tomó posesión Andrés Manuel López Obrador. En la mañana pronunció un incendiario discurso, que parecía seguía en campaña, en la tribuna de la Cámara de Diputados luego de recibir la banda presidencial y por la tarde, después de la comida con invitados entre los cuales se encontraban los cuestionables Nicolás Maduro, Evo Morales y Miguel Díaz-Canel, pronunció un segundo mensaje en el Zócalo capitalino donde enunció 100 puntos de propuestas y políticas públicas a seguir en su gobierno. 
+
+Las 20 palabras más usadas en el primer discurso fueron:
+![](/post/2018-12-11-discursos/figure-html/Free_1.png)
+
+palabra | frecuencia
+--|--
+méxico |  30
+pueblo |  25
+república  | 25
+presidente  | 24
+gobierno  | 19
+corrupción  | 19
+poder |  18
+país  | 18
+pública |  17
+vamos |  15
+años  | 14
+neoliberal |  13
+ciento |  13
+nacional  | 11
+mil  | 11
+siempre  | 11
+ahora |  10
+mundo |  10
+periodo   | 9
+vida |   9
+
+En una nube de palabras se puede apreciar que las palábras que más mencionó y más resaltan son México, pueblo y república. Periodo aparece 9 veces pero casi siempre va acompañada de neoliberal que se repitió 13 veces.
+
+![](/post/2018-12-11-discursos/figure-html/discurso1.png)
+
+Las 20 palabras que más utilizó en el segundo discurso fueron:
+![](/post/2018-12-11-discursos/figure-html/Disc_zoc.png)
+
+palabra | frecuencia
+--|--
+méxico |   17
+pueblo | 17
+gobierno  | 15
+país    | 12
+funcionarios | 11
+pública   |  10
+pueblos   |    9
+desarrollo |  9
+mil      |  9
+públicos  |   9
+seguridad  |  8
+recibirán |    7
+pesos      |    7
+derecho   |    7
+nacional   |    7
+programa    |    7
+empleos     |    7
+ciudadanos  |    7
+programas   |    6
+vamos       |    6
+
+En una nube de palabras se puede ver que las que más utilizó fueron México, pueblo y gobierno. Destacan palabras relacionadas con los programas sociales que pondrá en marcha y este discurso no es confrontativo como el primero donde destacaban neoliberal y corrupción.
+
+![](/post/2018-12-11-discursos/figure-html/disc2.png)
