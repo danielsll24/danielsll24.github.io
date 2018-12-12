@@ -1,0 +1,35 @@
+---
+title: "Remuneraciones"
+output: html_document
+date: 2018-12-12
+---
+
+El tema que más páginas ha ocupado en los periódicos nacionales es lo referente a la aprobación de la Ley Federal de Remuneraciones de los Servidores Públicos (LFRSP) y las acciones de inconstitucionalidad y centenas de amparos presentados contra su aplicación por parte de muchas personas afectadas. Trataré de reconstruir la historia y de entender lo que está sucediendo. 
+
+Se trata de una iniciativa presentada en abril de 2010 por el entonces senador por el PRD, Pablo Gómez. Esta iniciativa fue aprobada en noviembre de 2011 y se turnó a la Cámara de Diputados donde quedó congelada por 9 años. Gómez trataba de reglamentar el texto de los artículos 75 y 127 constitucionales en materia de calcular y reducir las remuneraciones de los servidores públicos, dada la forma un tanto arbitraria en que se calculan los montos a pagar. 
+
+Desde que se descongeló en septiembre de este año, se acusó que esta pieza de legislación contenía cosas que se debían ajustar, tales como calcular usando como base el salario mínimo vigente en el Distrito Federal, o menciona al IFE e IFAI, hoy ambos con carácter nacional.
+
+El presidente del Senado ordenó que esta pieza de legislación se publicara en el Diario Oficial de la Federación el pasado 31 de octubre, a falta de que lo hiciera el expresidente Enrique Peña Nieto. Los recursos de impugnación y amparos no se tardaron en aparecer. Las bancadas del PAN, PRI, PRD, Movimiento Ciudadano y el senador sin partido Emilio Álvarez Icaza (55 senadores), presentaron una acción de inconstitucionalidad ante la Suprema Corte de Justicia argumentando que atenta contra la división de poderes vulnera la soberanía de los estados. El ministro Alberto Pérez Dayán adimitió el trámite y concedió una suspensión por posibles daños irreparables de aplicarse. Esto no impide que el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2019 incluya las disminuciones propuestas en la ley impugnada.
+
+La Comisión Nacional de Derechos Humanos también presentó una acción de inconstitucionalidad contra 10 de los 17 artículos de la LFRSP por posibles violaciones a derechos humanos en la ley de reciente aprobación, ya que esta no desarrolló, de acuerdo con el texto constitucional, los parámetros o reglas indispensables para hacerla efectiva.
+
+La aprobación de la LFRSP fue de la mano con un par de cambios al Código Penal Federal y la posterior aprobación de la ampliación de la lista de delitos que ameritan prisión preventiva oficiosa el martes pasado, misma que incluye delitos de corrupción por remuneración ilícita. Los cambios al Código Penal establecen que se encuentra prohibido dar y/o recibir remuneraciones que no se encuentren autorizadas por la ley y especifica los castigos a los que se harán acreedores quienes den o reciban estas remuneraciones.
+
+Entre la lluvia de amparos presentados se encuentran reclamaciones de docentes, personal administrativo de instituciones de educación superior, el consejero electoral Benito Nacif, jueces y magistrados del Poder Judicial Federal, entre otros. 
+
+En mi opinión, las disposiciones de la LFRSP buscan reglamentar los artículos 75 y 127 de la Constitución pero pasan por alto el texto del artículo 94 que establece que no se podrá disminuir el salario de los funcionarios del poder judicial mientras dure su cargo. 
+
+Llama la atención el timing de este caso con el de la terna presentada por el presidente para ocupar la vacante en la SCJN que acaba de dejar el ministro Cossío, donde se encuentran Loretta Ortiz (exdiputada del PT y fue quien llevó a cabo los foros de pacificación de AMLO), Celia Maya (excandidata de Morena al Senado por Querétaro) y Juan Luis González Alcántara Carrancá (quien presidió el TSJDF al tiempo que AMLO encabezara el GDF y se acusa cercano al exministro Genaro Góngora Pimentel). La terna está formada por personas ya sea militantes del partido del presidente o cercanos, sembrando dudas de su independenia o autonomía para desempeñar el cargo en la máxima tribuna de México y de calificar como antidemocrática y formalismo hipócrita la decisión del Tribunal Electoral del Poder Judicial de la Federación sobre ratificar el triunfo de Martha Erika Alonso en la gubernatura de Puebla. A lo que se está viendo como golpes por parte del Ejecutivo y Legislativo contra el Poder Judicial se suman los dichos por AMLO de los ministros se equivocaron al dar entrada a la acción de inconstitucionalidad a lo que puedo agregar las críticas en la pasada campaña donde acusó falsamente a la Corte de no haber hecho nada por los mexicanos. 
+
+Desde el Senado como desde el Ejecutivo se ha acusado a los Organismos Constitucionales Autónomos de no aportar nada y ser muy caros, pidiendo que entren a la austeridad y recorten sus presupuestos para 2019. 
+
+No comparto las acusaciones de que estamos ante una crisis constitucional por este enfrentamiento ya que se está dando dentro de los canales diseñados para ello. Para esto existen las acciones de constitucionalidad y controversias. Las prisas de Morena por sacar adelante esta legislación antes de la toma de posesión de AMLO no permitieron establecer un diálogo entre los afectados ni considerar que la LFRSP tendría víctimas colaterales como jueces en niveles inferiores del Poder Judicial, docentes y personal administrativo de escuelas como el CIDE o el IPN, etc. 
+
+Sin duda los salarios y prestaciones del Poder Judicial Federal deben revisarse y de ser el caso reducirse, pero no comparto que este sea el camino. Se aprobó una ley con prisas, sin la debida discusión ni adecuaciones necesarias que reclamaba la oposición. Considero que no debería usarse lo que gana el presidente como ancla para establecer los demás salarios porque esto abre una puerta a la arbitrariedad: hoy AMLO decidió que ganaría un poco más de $108,000 pero ¿qué pasaría el día que un presidente, o él mismo, decida ganar mucho menos?, definitivamente afectaría a muchos funcionarios por establecer lo que gana el presidente como cúspide de la pirámide de los salarios del sector público.
+
+El tema de reducir salarios y prestaciones de servidores públicos cuenta con buena aceptación en la opinión pública, pero deberán atenderse los signos de enfrentamientos entre el titular del Ejecutivo con gobierno unificado y los Órganos Constitucionales Autónomos y Poder Judicial ante la tentación de buscar controlarlos o socavar su autonomía y las decisiones que tomen.
+
+La Corte decidirá si esta ley es constitucional o no. 
+
+
