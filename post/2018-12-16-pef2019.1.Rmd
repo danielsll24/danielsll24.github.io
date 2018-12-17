@@ -1,0 +1,94 @@
+---
+title: "Presupuesto 2019"
+output: html_document
+date: 2018-12-16
+---
+
+Una mirada rápida al proyecto del Presupuesto de Egresos de la Federación que entregó ayer el Secretario de Hacienda a la Cámara de Diputados.
+
+Las cifras son las reportadas en la página de la SHCP y están en miles de millones de pesos.
+
+1. Poder Ejecutivo
+
+
+ Ramo	|	Proyecto 2019|	Presupuesto 2018 |	Variación
+ --|--|--|--
+ Oficina de Presidencia|1,569.80|1,866.80|-15.90%
+SEGOB|	60,697.30	|66,697.10|	-9.00%
+SRE|	8,532.30|	9,350.70|	-8.80%
+SHCP|	22,575.90|	27,479.40	|-17.80%
+SEDENA|93,670.20|	84,149.10|	11.30%
+SADER (SAGARPA)|	57,343.10|	80,212.80	|-28.50%
+SCT|	66,404.30	|87,811.90|	-24.40%
+SE|	9,056.00|	9,948.10|	-9.00%
+SEP|	300,140.20|	291,813.80|	2.90%
+SALUD|123,209.40|	127,287.70|	-3.20%
+SEMAR|	29,583.40	|32,514.10|	-9.00%
+STPS|	43,269.10	|4,192.80	|932.00%
+SEDATU|	18,754.90	|17,413.30|	7.70%
+SEMARNAT|26,520.50|	39,031.10	|-32.10%
+PGR|	15,328.20|	16,870.70	|-9.10%
+SE|27,229.80|	2,565.60|	961.30%
+SB (SEDESOL)|148,491.10	|105,458.10	|40.80%
+SECTUR|	8,785.90|	4,067.40|	116.00%
+SFP|	901.8	|1,237.90	|-27.10%
+Tribunales Agrarios|831.4	|1,018.80	|-18.40%
+Consejería Jurídica |111.7	|136.3|	-18.00%
+CONACYT|	24,664.70	|28,276.70|	-12.80%
+CRE|	248.3	|360.3|	-31.10%
+CNH|	214.9	|308.4|	-30.30%
+Entidades no Sectorizadas|	8,864.10|	9,705.80	|-8.70%
+Cultura|	12,394.10|	13,414.70	|-7.60%
+
+A reserva de hacer un análisis más profundo, destacan los incrementos a la Secretaría de la Defensa Nacional que ya cuenta en los hechos con varias zonas cubiertas de acuerdo al nuevo modelo de seguridad que aún no pasa por el Congreso. La Secretaría del Trabajo incrementó en casi 10 veces su presupuesto, el programa de aprendices en empresas será administrado por esta secretaría y lo pagará el Gobierno Federal, ya que las empresas que participen no tendrán obligaciones contractuales con los jóvenes.
+
+SEP y SEDATU también registran aumentos pero menores a STPS y SEDENA. Otras secretarías que recibirán más recursos que en el gobierno anterior son SECTUR, donde FONATUR se encargará de la construcción del ferrocarril que recorrerá la Península de Yucatán, la nueva Secretaría del Bienestar (antes SEDESOL) desde donde se entregarán los apoyos a estudiantes, discapacitados y pensiones a adultos mayores, y la Secretaría de Energía que, de acuerdo al plan en materia de energía presentado hace un par de días, invertirá millones de pesos en PEMEX y CFE buscando reactivar refinerías e hidroeléctricas, así como actividades de exploración y extracción de gas y petróleo.
+
+Destacan los decrementos a la Secretaría de la Función Pública y a la Procuraduría General de la República, entidades encargadas de las políticas anticorrupción y de investigación y persecución de delitos, respectivamente.
+
+CONACYT y los órganos reguladores en materia energética también verán disminuciones importantes en sus recursos a comparación de este año.
+
+2. Poderes y órganos autónomos
+
+Ramo	|	Proyecto 2019|	Presupuesto 2018 |	Variación
+ --|--|--|--
+INEGI|	12,629.70	|8,089.50	|56.10%
+TFJA|2,973.10	|3,146.00	|-5.50%
+Poder Legislativo|	13,002.40	|16,175.70|	-19.60%
+Cámara de Diputados	|	6,758.00|	8,765.20|	-22.90%
+Senado|	3,940.00|	5,094.30|	-22.70%
+Poder Judicial|	65,356.70	|74,120.90|	-11.80%
+SCJN|	4,782.30|	5,852.60|	-18.30%
+CJF|	57,968.00	|64,224.80|	-9.70%
+TEPJF	|2,606.40	|4,043.50|	-35.50%
+INE|	16,313.00	|25,150.00|	-35.10%
+CNDH|	1,971.30|	2,111.50|	-6.60%
+COFECE|	582.8	|642|	-9.20%
+INEE|	997.3	|1,275.10|	-21.80%
+IFT|	1,780.00|	2,075.10|	-14.20%
+INAI|	937.2	|1,140.90	|-17.90%
+
+La única institución que aumenta su presupuesto es el INEGI. El INE recibirá menos dinero ya que en 2019 no tiene que organizar elecciones federales. El Congreso trabajará con menos recursos, así como la Suprema Corte en medio de la polémica por la Ley de Remuneraciones. El INEE aparece en el proyecto pero contará con 22% menos recursos que este año.
+
+3. Ramos generales
+
+Ramo	|	Proyecto 2019|	Presupuesto 2018 |	Variación
+ --|--|--|--
+Aportaciones a seguridad social|	786,107.50|	726,669.00|	8.20%
+Provisiones salariales y económicas|	112,996.70|	162,502.20|	-30.50%
+Previsiones y aportaciones para los Sistemas de Eduación |	54,068.10	|54,763.40	|-1.30%
+Aportaciones federales para entidades federativas y municipios	|	734,022.20|	714,909.50|	2.70%
+
+Destaca una disminución a provisiones salariales y económicas, el polémico ramo 23, mayor al 30% de lo que se dio en 2018 y un aumento de 2.7% en las transferencias a los estados y municipios.
+
+4. Entidades de control directo y empresas productivas del Estado
+
+Ramo	|	Proyecto 2019|	Presupuesto 2018 |	Variación
+ --|--|--|--
+PEMEX	|	464,601.60|	407,073.90|	14.10%
+CFE	|	434,702.90|	402,548.70	|8.00%
+IMSS |	746,738.90|	705,502.50|	5.80%
+ISSSTE|	323,322.20|	293,541.30	|10.10%
+
+Tanto las empresas energéticas como las de seguridad social recibirán mayor cantidad de recursos que en 2018. Entiendo esto en los planes anunciados de inversiones en refinerías, centrales eléctricas, cambios en el modelo de servicios de salud y compra de medicamentos, actividades de exploración y extracción de petróleo y gas.
+
