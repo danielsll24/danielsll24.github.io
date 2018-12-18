@@ -1,0 +1,9 @@
+---
+title: "Ley de Ingresos 2019"
+output: html_document
+date: 2018-12-18
+---
+
+Al momento de escribir estas líneas, la Cámara de Diputados estaba aprobando en el Pleno la Ley de Ingresos 2019 que contiene los estimados de los ingresos del estado durante el año que está por iniciar.
+
+![](/post/2018-12-18-LIF/figure-html/Rplot.png)
