@@ -4,6 +4,10 @@ output: html_document
 date: 2018-12-18
 ---
 
-Al momento de escribir estas líneas, la Cámara de Diputados estaba aprobando en el Pleno la Ley de Ingresos 2019 que contiene los estimados de los ingresos del estado durante el año que está por iniciar.
+Al momento de escribir estas líneas, la Cámara de Diputados estaba aprobando en el Pleno la Ley de Ingresos 2019 que contiene los estimados de los ingresos del estado durante el año que está por iniciar. Todas las cantidades están en millones de pesos.
 
 ![](/post/2018-12-18-LIF/figure-html/Rplot.png)
+
+La Ley de Ingresos 2019 estima una recaudación de $5,814,291.7 millones de pesos de los cuáles $3,287,605.4 (56.54%) corresponden a impuestos. Dentro de los ingresos por impuestos que el gobierno cobrará en 2019 destacan $1,734,924.2 por concepto del ISR, $989,011.3 por concepto del IVA y $269,300 por concepto del popularmente llamado gasolinazo (IEPS a combustibles automotrices).
+
+Esta ley prevé recibir $539,871.4 por endeudamiento interno del gobierno federal, así como $1,002,697.5 por venta de bienes y prestación de servicios donde destacan $524,291.6 por parte de PEMEX y $418,226 por parte de CFE.

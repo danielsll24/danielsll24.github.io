@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog de Daniel</title>
-    <link>/</link>
+    <link>https://danielsll24.github.io/</link>
     <description>Recent content on Blog de Daniel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danielsll24.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Ley de Ingresos 2019</title>
+      <link>https://danielsll24.github.io/2018/12/18/ley-de-ingresos-2019/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielsll24.github.io/2018/12/18/ley-de-ingresos-2019/</guid>
+      <description>Al momento de escribir estas líneas, la Cámara de Diputados estaba aprobando en el Pleno la Ley de Ingresos 2019 que contiene los estimados de los ingresos del estado durante el año que está por iniciar. Todas las cantidades están en millones de pesos.
+ La Ley de Ingresos 2019 estima una recaudación de $5,814,291.7 millones de pesos de los cuáles $3,287,605.4 (56.54%) corresponden a impuestos. Dentro de los ingresos por impuestos que el gobierno cobrará en 2019 destacan $1,734,924.</description>
+    </item>
+    
+    <item>
       <title>Presupuesto 2019</title>
-      <link>/2018/12/16/presupuesto-2019/</link>
+      <link>https://danielsll24.github.io/2018/12/16/presupuesto-2019/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/12/16/presupuesto-2019/</guid>
+      <guid>https://danielsll24.github.io/2018/12/16/presupuesto-2019/</guid>
       <description>Una mirada rápida al proyecto del Presupuesto de Egresos de la Federación que entregó ayer el Secretario de Hacienda a la Cámara de Diputados.
 Las cifras son las reportadas en la página de la SHCP y están en miles de millones de pesos.
 Poder Ejecutivo    Ramo Proyecto 2019 Presupuesto 2018 Variación    Oficina de Presidencia 1,569.80 1,866.80 -15.90%  SEGOB 60,697.30 66,697.10 -9.00%  SRE 8,532.</description>
@@ -24,39 +34,39 @@ Poder Ejecutivo    Ramo Proyecto 2019 Presupuesto 2018 Variación    Oficina de 
     
     <item>
       <title>Remuneraciones</title>
-      <link>/2018/12/12/remuneraciones/</link>
+      <link>https://danielsll24.github.io/2018/12/12/remuneraciones/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/12/12/remuneraciones/</guid>
+      <guid>https://danielsll24.github.io/2018/12/12/remuneraciones/</guid>
       <description>El tema que más páginas ha ocupado en los periódicos nacionales es lo referente a la aprobación de la Ley Federal de Remuneraciones de los Servidores Públicos (LFRSP) y las acciones de inconstitucionalidad y centenas de amparos presentados contra su aplicación por parte de muchas personas afectadas. Trataré de reconstruir la historia y de entender lo que está sucediendo.
 Se trata de una iniciativa presentada en abril de 2010 por el entonces senador por el PRD, Pablo Gómez.</description>
     </item>
     
     <item>
       <title>Los discursos del 1 de diciembre</title>
-      <link>/2018/12/11/los-discursos-del-1-de-diciembre/</link>
+      <link>https://danielsll24.github.io/2018/12/11/los-discursos-del-1-de-diciembre/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/12/11/los-discursos-del-1-de-diciembre/</guid>
+      <guid>https://danielsll24.github.io/2018/12/11/los-discursos-del-1-de-diciembre/</guid>
       <description>El sábado 1 de diciembre tomó posesión Andrés Manuel López Obrador. En la mañana pronunció un incendiario discurso, que parecía seguía en campaña, en la tribuna de la Cámara de Diputados luego de recibir la banda presidencial y por la tarde, después de la comida con invitados entre los cuales se encontraban los cuestionables Nicolás Maduro, Evo Morales y Miguel Díaz-Canel, pronunció un segundo mensaje en el Zócalo capitalino donde enunció 100 puntos de propuestas y políticas públicas a seguir en su gobierno.</description>
     </item>
     
     <item>
       <title>Acerca de</title>
-      <link>/about/</link>
+      <link>https://danielsll24.github.io/about/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://danielsll24.github.io/about/</guid>
       <description>Este es un sitio donde escribiré sobre temas de coyuntura política. Las opiniones son personales.
 Soy casi politólogo por el ITAM (en proceso de titulación) y colaboro con el Centro de Estudios Alonso Lujambio del ITAM. Participé en la redacción de notas de la Crónica de las Elecciones Federales 2018 del Instituto de Investigaciones Jurídicas de la UNAM y he trabajado como asistente de investigación. Me interesan temas electorales y de congreso.</description>
     </item>
     
     <item>
       <title>La consulta del NAIM: parte 1</title>
-      <link>/2018/11/04/la-consulta-del-naim-parte-1/</link>
+      <link>https://danielsll24.github.io/2018/11/04/la-consulta-del-naim-parte-1/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/11/04/la-consulta-del-naim-parte-1/</guid>
+      <guid>https://danielsll24.github.io/2018/11/04/la-consulta-del-naim-parte-1/</guid>
       <description>Este es un primer análisis de los resultados de la consulta realizada por Morena y el equipo del presidente electo sobre la decisión de continuar con la construcción del Nuevo Aeropuerto Internacional de México en Texcoco u optar por el sistema formado por el Aeropuerto Internacional Benito Juárez, el Aeropuerto de Toluca y dos pistas en la Base Militar de Santa Lucía.
 No hablaré sobre la legalidad -o alegalidad- de la consulta, ya que en su calidad de ciudadanos y pagada con recursos de sus legisladores, no hay nada que les impida llevarla a cabo, pero lo que considero ilegal es que el eventual gobierno de AMLO haga vinculantes los resultados de este ejercicio.</description>
     </item>
