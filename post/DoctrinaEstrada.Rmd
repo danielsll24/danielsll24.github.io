@@ -4,13 +4,13 @@ output: html_document
 date: 2019-01-05
 ---
 
-El ganso se convirtió en avestruz cuando revivió al fantasma creado en 1930 por el ex canciller Genaro Estrada con la abstención del gobierno mexicano en la firma de la carta del Grupo de Lima donde 13 de 14 países miembros exhortan a Nicolás Maduro para que no tome posesión de la presidencia de Venezuela en su segundo periodo para el cual resultó electo en unas cuestionadas e inequitativas elecciones que fueron manejadas por las instituciones paralelas que él mismo controla. 
+El ganso se convirtió en avestruz cuando revivió al fantasma creado en 1930 por el ex canciller Genaro Estrada con la abstención del gobierno mexicano en la firma de la carta del Grupo de Lima donde 13 de 14 países miembros exhortan a Nicolás Maduro para que no tome posesión de la presidencia de Venezuela el 10 de enero en su segundo periodo para el cual resultó electo en unas cuestionadas e inequitativas elecciones que fueron manejadas por las instituciones paralelas que él mismo controla. 
 
-Los venezolanos están sufriendo una crisis humanitaria sin precedentes en el subcontinente latinoamericano, junto con altos niveles de violencia e hiperinflación. 
+Los venezolanos están sufriendo una crisis humanitaria sin precedentes en Latinoamérica, junto con altos niveles de violencia e hiperinflación. 
 
-La carta acusa que las elecciones del 20 de mayo de 2018, convocadas por el Congreso Constituyente controlado por Maduro, no se dieron en condiciones democráticas (controladas por el gobiern madurista y prohibiendo a la oposición participar) y reconoce a la Asamblea Nacional (con mayoría opositora) y al Tribunal Supremo de Justicia (que opera en el exterior) como instituciones legítimamente conformadas de acuerdo a la Constitución venezolana vigente y acusan la ruptura del orden constitucional y el estado de derecho. 
+La carta acusa que las elecciones del 20 de mayo de 2018, convocadas por el Congreso Constituyente controlado por Maduro, no se dieron en condiciones democráticas (controladas por el gobierno madurista y prohibiendo a la oposición participar) y reconoce a la Asamblea Nacional (con mayoría opositora) y al Tribunal Supremo de Justicia (que opera en el exterior) como instituciones legítimamente conformadas de acuerdo a la Constitución venezolana vigente y acusan la ruptura del orden constitucional y el estado de derecho. 
 
-México es parte del grupo de países que buscan restituir el orden democrático, buscar sanciones financieras a funcionarios bolivarianos y revisar las relaciones diplomáticas para impedir la entrada a los 14 países miembros de funcionarios maduristas.
+México es parte del grupo de países que buscan restituir el orden democrático, imponer sanciones financieras a funcionarios bolivarianos y revisar las relaciones diplomáticas para impedir la entrada a los 14 países miembros de políticos del régimen maduristas.
 
 El artículo 89 en su fracción X de la Constitución mexicana faculta al presidente a: 
 
