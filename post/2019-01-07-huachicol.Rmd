@@ -4,7 +4,7 @@ date: "2019-01-07"
 output: html_document
 ---
 
-Hace un par de semanas el gobierno federal anunció un plan para combatir el robo de combustibles (huachicol) incrementando la vigilancia a los ductos e instalaciones de PEMEX por elementos de las fuerzas armadas y, en un desplante de populismo penal, tipificar el robo de combustibles como un delito grave que merece prisión preventiva oficiosa (algo ya no vigente en nuestro sistema penal acusatorio). 
+Hace un par de semanas el gobierno federal anunció un plan para combatir el robo de combustibles (huachicol) incrementando la vigilancia a los ductos e instalaciones de PEMEX por elementos de las fuerzas armadas y, en un desplante de populismo penal, tipificar el robo de combustibles como un delito grave que merece prisión preventiva oficiosa.
 
 En la primera semana del año se reportó escasez de gasolina en municipios de Michoacán y los días siguientes se sumaron reportes por desabasto en los estados de Jalisco, Querétaro, Tamaulipas, Guanajuato, Aguascalientes, Puebla, Estado de México, Hidalgo, Oaxaca, Nuevo León y Chihuahua. El gobierno de López Obrador reconoció que el desabasto fue provocado por la interrupción del bombeo de combustibles en los ductos que van a esos estados como parte de la estrategia contra el huachicoleo y usar pipas con la idea de disminuir el robo de gasolina por ordeña. 
 
