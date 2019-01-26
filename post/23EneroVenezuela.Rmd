@@ -1,0 +1,45 @@
+---
+title: "23-E"
+date: "2019-01-25"
+output: html_document
+---
+
+El 23 de enero es una fecha importante en Venezuela ya que ese día pero en 1958 terminó la dictadura de Marcos Pérez Jiménez. Por ese motivo, la fecha fue escogida por la oposición venezolana para iniciar las acciones contra la autocracia que encabeza Nicolás Maduro.
+
+Para entender lo que sucedió el 23 de enero de 2019 tenemos que regresar al 2015. El 6 de diciembre de 2015 se llevaron a cabo las elecciones parlamentarias para renovar los 167 escaños de la Asamblea Nacional. Los partidos de oposición, reunidos en la Mesa de Unidad Democrática, ganaron 112 escaños y la mayoría calificada para aprobar leyes orgánicas, habilitantes y reformas constitucionales. Estas elecciones se dieron bajo lo previsto en la Constitución de 1999, de elaboración chavista. La IV Legislatura de la Asamblea Nacional se instaló el 5 de enero del 2016.
+
+Ante la derrota del 6 de diciembre, la fracción mayoritaria chavista de la III Legislatura de la Asamblea Nacional nombró el 23 de diciembre, a 13 magistrados principales y 21 suplentes en una sesión que se considera ilegal por ocurrir después de cerrar el periodo de sesiones el 15 de diciembre. De esta forma, el chavismo actualizó y controló la conformación del Tribunal Supremo de Justicia. En junio del 2016, la Asamblea Nacional con mayoría de la MUD anuló los nombramientos de diciembre de 2015.
+
+Días después de las elecciones de 2015, y una vez que ya habían juramentado los diputados,se presentaron 7 denuncias contra los resultados de las elecciones de los representantes de los estados Amazonas, Aragua y Yaracuy. Solamente prosperó la denuncia del estado de Amazonas y la Sala Electoral del TSJ ordenó a la Asamblea que desincorporara a los diputados que representaban a este estado. El presidente del órgano legislativo, Henry Ramos Allup, se negó a hacerlo amparado en que dichos diputados ya gozaban de inmunidad parlamentaria. Esto provocó que el TSJ declarara en desacato a la Asamblea y el 11 de enero del 2016, por medio de una sentencia, el Tribunal dejó sin efecto todos los actos del Legislativo tomando para sí las atribuciones parlamentarias mientras la Asamblea estuviera en desacato. 
+
+En enero de 2017, bajo la presidencia de Julio Borges, la Asamblea separó a los 3 representantes de Amazonas, pero el TSJ no retiró el status de desacato acusando que quien debía hacerlo era el expresidente del parlamento. Con distintas sentencias, el Tribunal otorgó en marzo de 2017, facultades legislativas al presidente Nicolás Maduro y facultades constitucionales a sí mismo para delegarlas a las instituciones que considere. Ante estas acciones reaccionó la Fiscal General de la República, Luisa Ortega, quien calificó estas acciones como ruptura del orden constitucional. 
+
+En mayo de 2017, Maduro convocó a una Asamblea Nacional Constituyente para redactar una nueva constitución. Esto fue avalado por el TSJ en junio al permitir al presidente realizar la convocatoria sin un referendo previo como lo mandata la Constitución vigente. El TSJ también remplazó a las Juntas Parroquiales por Juntas Parroquiales Comunales donde los Consejos Comunales, a través de voto indirecto, escogerían a las Juntas Parroquiales.
+
+Las elecciones de la ANC fueron el 30 de julio. Se reporta una alta abstención, presiones por parte del gobierno para que los trabajadores públicos votaran y diversas irregularidades en el sistema Smartmatic donde apareció una discrepancia entre el número de votantes y lo reportado por el gobierno. Los 545 asientos de este controvertido órgano legislativo fueron ganados por el PSUV y aliados, y se instaló el 4 de agosto de 2017. Este proceso fue impugnado por la Fiscal General, a quien destituyó el TSJ tomando otra vez las facultades de la Asamblea Nacional.
+
+Al mismo tiempo que se instalaba el Constituyente, la Asamblea Nacional repuso el procedimiento para nombrar a los magistrados del Tribunal Superior de Justicia el 21 de julio del 2017. Estos magistrados conforman hoy al Tribunal Superior de Justicia en el exilio y viven en Panamá, Chile, Colombia y Estados Unidos. Celebran reuniones semanales por internet.
+
+Otra de las polémicas sentencias del TSJ fue el retiro de la inmunidad de los parlamentarios. Esta sentencia fue aprobada a finales de marzo de 2016 y abrió la posibilidad de llevar a los diputados ante juicios en tribunales militares.
+
+Entre marzo y agosto de 2017 se desató una ola de protestas en todo el territorio venezolano en contra de la sentencia por la cual el TSJ tomó para sí las facultades de la Asamblea Nacional y otorgara más poderes a Maduro. Las protestas fueron reprimidas y cientos de personas perdieron la vida. El fin de esta ola se dio después el ataque por parte del militar Oscar Pérez quien disparó desde un helicóptero a la sede del TSJ el 27 de junio de 2017 y el fallido ataque a la base militar de Paramacay en agosto.
+
+Los sucesos de 2017 llevaron a que los países latinoamericanos que conforman el Grupo de Lima, así como la Unión Europea, Suiza, Japón, Estados Unidos, Israel y Canadá rechazaran a la Asamblea Constituyente. Maduro solamente contó con el respaldo de Ecuador, Bolivia, Nicaragua, Cuba, Rusia, China, Irán, El Salvador y Siria.
+
+La Asamblea Constituyente convocó a elecciones presidenciales que tuvieron lugar el 20 de mayo de 2018. El TSJ inhabilitó el cartón de la MUD acusando que algunos de los partidos que la conforman no habían renovado su registro. Se registró una alta abstención, no se permitió la participación de la coalición opositora y no asistieron observadores internacionales por parte de la ONU. Nicolás Maduro se alzó con el triunfo que no es reconocido por los países del Grupo de Lima, la Unión Europea, la OEA, Australia, Estados Unidos, Japón, Nueva Zelanda, Suiza y República Dominicana, quienes acusan la falta de garantías y convocatoria no transparente.
+
+Entre las irregularidades de la campaña de 2018 se encuentra reducido número de mesas para registro de votantes, compra y coacción del voto usando el carnet de la patria para registrar a votantes del PSUV, así como un corto periodo de campaña.
+
+El 5 de enero de 2019 inició el periodo de sesiones de la Asamblea General con Juan Guaidó como presidente. La OEA pidió a Maduro no tomar posesión de su segundo periodo presidencial el 10 de enero y aún así lo hizo. El 11 de enero, Guaidó instaló una sesión de cabildo abierto en Caracas, anunció que en su calidad de presidente de la Asamblea Nacional asumiría las competencias del artículo 233 constitucional y desconocía la presidencia de Maduro describiéndola como ilegítima invocando los artículso 233, 333 y 350. El Tribunal en el exilio pidió a Guaidó asumir interinamente la presidencia de Venezuela. 
+
+El 23 de enero de 2019, 61 años después de la caída de Pérez Jiménez, Juan Guaidó se juramentó como presidente encargado con apoyo de la Asamblea Nacional y recibió apoyo y reconocimiento por parte de la OEA, Estados Unidos, Canadá, el Grupo de Lima con la deshonrosa excepción de México. La Unión Europea expresó su reconocimiento a la Asamblea Nacional como único órgano electo con legitimidad democrática. Maduro es reconocido por Cuba, Bolivia, Nicaragua, China, Irán, Turquía y Rusia. 
+
+
+
+
+
+
+
+
+
+
