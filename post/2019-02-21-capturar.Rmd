@@ -1,0 +1,22 @@
+---
+title: "Capturar al árbitro y aprovechar la crisis"
+output: html_document
+date: 2019-02-21
+---
+
+Los embates del gobierno federal contra los órganos constitucionales autónomos y reguladores me recordaron algunos puntos del capítulo 4 de *How democracies die* de Levitsky y Ziblatt, pensando en lo que ellos denominan capturar al árbitro usando como metáfora un partido deportivo.
+
+Los autores suponen a las agencias que tienen el poder de investigar y castigar a funcionarios públicos como árbitros neutrales según el diseño de estas instituciones y los gobiernos autoritarios los ven como obstáculos que podrían exhibirlos, pero de controlarlos se convertirían en escudos para tapar sus acciones y armas contra opositores. 
+
+Enumeran varias formas de capturar a los árbitros que van desde despedir a funcionarios públicos y sustituirlos con gente leal, comprar con favores y cargos, llevar a quienes les resultan contrarios a juicio político y destitución, ampliar el número de comisionados en plenos, meter gente afín o crear nuevas instituciones que reemplacen a las existentes.
+
+Asombrosamente, las acciones descritas en el libro coinciden con los sucesos de los últimos 3 meses. Desde que inició este gobierno, se forzó a muchos servidores públicos a renunciar y muchas vacantes fueron ocupadas por personas sin el perfil indicado para ese puesto pero que son leales al partido en el poder. Entre las amenazas más conocidas están las hechas a los comisionados de los órganos reguladores de energía. En la compra con favores están los gobernadores de los estados que se verán beneficiados con la construcción del Tren Maya o quienes respaldan la guardia militar, así como varias decenas de legisladores de varios partidos que se han sumado a la bancada morenista en ambas cámaras, otorgando así la mayoría absoluta y, posiblemente en unos días, la calificada. Como ejemplo de forzar a renunciar está el caso de Janine Otálora, quien luego del fallo por no anular la elección de Puebla, se separó del cargo de presidenta del Tribunal Electoral. En cuanto a juicios, no es novedad las denuncias públicas que hace AMLO desde sus conferencias mañaneras donde la víctima más conocida es el presidente de la Comisión Reguladora de Energía, Guillermo García Alcocer, o el juicio político al fiscal de Veracruz. 
+
+Este gobierno no ha recurrido a ampliar el número de comisionados o ministros como ha ocurrido en otros países y tampoco a sustituir instituciones, pero sí ha buscado nombrar a gente cercana en las dos ternas presentadas para la Suprema Corte y a Banxico o las vergonzosas 4 ternas presentadas para la CRE.
+
+En los párrafos que siguen, los autores alertan que, una vez que se mató a los árbitros, el gobierno puede atacar a sus opositores, medios de comunicación y empresarios con favores como acceso a cubrir las actividades de la presidencia o recibir concesiones y contratos, como es el caso de Banco Azteca y las tarjetas de los programas sociales con claras intenciones clientelares. También alertan que buscarán cambios legales, nuevas constituciones y sistemas electorales para inclinar la cancha a favor del nuevo autócrata. 
+
+El problema es que estas medidas las hacen poco a poco y recubiertas de legalidad, por lo que los ciudadanos tardamos en darnos cuenta de que la democracia está muriendo. Las crisis económicas, por desastres naturales o de seguridad facilitan la concentración y abuso del poder, sirven para justificar medidas de mano dura y logran que los ciudadanos toleren y apoyen acciones autoritarias si temen por su propia seguridad. 
+
+Este es el contexto perfecto para la aprobación de la guardia nacional de naturaleza militar y la ampliación del catálogo de delitos con prisión preventiva oficiosa, ya que ante la enorme impunidad e inseguridad, estas medidas gozan de buena aceptación medida en diversas encuestas. Los autores concluyen que las crisis representan una oportunidad para que los demagogos desmantelen a los frenos y contrapesos que les resultan inconvenientes y son parte integral de la democracia.
+
