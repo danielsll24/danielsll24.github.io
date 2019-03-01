@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog de Daniel Saavedra Lladó</title>
+    <title>Blog de Daniel Saavedra Lladó </title>
     <link>/</link>
-    <description>Recent content on Blog de Daniel Saavedra Lladó</description>
+    <description>Recent content on Blog de Daniel Saavedra Lladó </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Revivir al PES</title>
+      <link>/2019/03/01/revivir-al-pes/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/01/revivir-al-pes/</guid>
+      <description>El Tribunal Electoral del Poder Judicial de la Federación (TEPJF) se prepara para cometer nuevamente una salvajada con el objetivo de otorgar el registro y prerrogativas al Partido Encuentro Social (PES), recordando la decisión de 2015 donde ordenó esperar los resultados de la elección extraordinaria en un distrito de Aguascalientes para que el Partido del Trabajo (PT) lograra superar el umbral y mantuviera su registro.
+Esta vez se trata de un proyecto elaborado por el Magistrado Felipe de la Mata donde se propone regresar el registro al PES y otorgarle prerrogativas al revocar un acuerdo del Instituto Nacional Electoral donde se confirmaba la pérdida de registro de este partido y de Nueva Alianza.</description>
+    </item>
     
     <item>
       <title>Capturar al árbitro y aprovechar la crisis</title>
