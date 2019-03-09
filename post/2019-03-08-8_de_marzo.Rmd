@@ -87,35 +87,43 @@ Equivalencia | Estado
 32|Zacatecas
 ```{r Gráficas, echo=FALSE, warning=FALSE}
 
-ggplot(data=fem2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g1<-ggplot(data=fem2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Modalidad),rows=vars(Año))+
   labs(title="Feminicidios en México (SESNSP)")+coord_flip()
 
-ggplot(data=fem3,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g2<-ggplot(data=fem3,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Feminicidios en México 2 (SESNSP)")+coord_flip()
 
-ggplot(data=ab2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g3<-ggplot(data=ab2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Abortos en México (SESNSP)")+coord_flip()
-ggplot(data=viol2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g4<-ggplot(data=viol2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Violación simple en México (SESNSP)")+coord_flip()
-ggplot(data=violgen2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g5<-ggplot(data=violgen2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Violencia de género distinta a familiar (SESNSP)")+coord_flip()
-ggplot(data=violfam2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g6<-ggplot(data=violfam2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Violencia familiar (SESNSP)")+coord_flip()
-ggplot(data=absex2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g7<-ggplot(data=absex2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Abuso sexual (SESNSP)")+coord_flip()
-ggplot(data=acoso2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g8<-ggplot(data=acoso2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Acoso sexual (SESNSP)")+coord_flip()
-ggplot(data=violeq2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+g9<-ggplot(data=violeq2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Violación equiparada (SESNSP)")+coord_flip()
 
-
+g1
+g2
+g3
+g4
+g5
+g6
+g7
+g8
+g9
 ```
