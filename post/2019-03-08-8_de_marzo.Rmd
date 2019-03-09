@@ -85,7 +85,7 @@ Equivalencia | Estado
 30|Veracruz
 31|Yucatán
 32|Zacatecas
-```{r Gráficas, echo=FALSE, warning=FALSE}
+```{r Gráficas, warning=FALSE, include=FALSE}
 
 g1<-ggplot(data=fem2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Modalidad),rows=vars(Año))+
@@ -117,6 +117,9 @@ g9<-ggplot(data=violeq2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_
   facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
   labs(title="Violación equiparada (SESNSP)")+coord_flip()
 
+
+```
+```{r echo=TRUE, warning=FALSE}
 g1
 g2
 g3
