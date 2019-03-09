@@ -85,7 +85,7 @@ Equivalencia | Estado
 30|Veracruz
 31|Yucatán
 32|Zacatecas
-```{r Gráfica 1, echo=FALSE, warning=FALSE}
+```{r Gráficas, echo=FALSE, warning=FALSE}
 
 ggplot(data=fem2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Modalidad),rows=vars(Año))+
