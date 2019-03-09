@@ -1,0 +1,125 @@
+---
+title: "8-marzo"
+output: html_document
+date: 2019-03-08
+---
+
+El 8 de marzo de cada año se conmemora el Día Internacional de la Mujer. Escribo este post solamente para mostrar gráficamente varios delitos relacionados con las mujeres y reportados entre 2015 y 2019 por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública. 
+
+El fin es informar y que hagamos conciencia de los problemas existentes de violencia de género, violencia familiar y mujeres que son criminalizadas por abortar. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+Sys.setlocale("LC_ALL","UTF-8")
+datos <- read.csv("/Users/danielsll/Downloads/Estatal Delitos - enero 2019.csv")
+fem <- datos %>% 
+  filter(Tipo.de.delito == "Feminicidio")
+
+fem2 <- gather(fem,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+       'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+fem3<- gather(fem,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+                'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+ab <- datos %>% 
+  filter(Tipo.de.delito == "Aborto")
+ab2 <- gather(ab,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+               'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+viol <- datos %>% 
+  filter(Tipo.de.delito == "Violación simple")
+viol2 <- gather(viol,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+                'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+violgen <- datos %>% 
+  filter(Tipo.de.delito == "Violencia de género en todas sus modalidades distinta a la violencia familiar")
+violgen2 <- gather(violgen,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+                'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+violfam <- datos %>% 
+  filter(Tipo.de.delito == "Violencia familiar")
+violfam2 <- gather(violfam,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+                   'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+absex <- datos %>% 
+  filter(Tipo.de.delito == "Abuso sexual")
+absex2 <- gather(absex,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+                 'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+acoso <- datos %>% 
+  filter(Tipo.de.delito=="Acoso sexual")
+acoso2 <- gather(violfam,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+       'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+violeq <- datos %>% 
+  filter(Tipo.de.delito=="Violación equiparada")
+violeq2 <- gather(violeq,'Enero','Febrero','Marzo','Abril','Mayo','Junio',
+                  'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre',key="Mes",value="Casos")
+
+```
+
+Equivalencia | Estado
+---|---
+1|Aguascalientes
+2|Baja California
+3|Baja California Sur
+4|Campeche
+5|Coahuila
+6|Colima
+7|Chiapas
+8|Chihuahua
+9|Ciudad de México
+10|Durango
+11|Guanajuato
+12|Guerrero
+13|Hidalgo
+14|Jalisco
+15|Estado de México
+16|Michoacán
+17|Morelos
+18|Nayarit
+19|Nuevo León
+20|Oaxaca
+21|Puebla
+22|Querétaro
+23|Quintana Roo
+24|San Luis Potosí
+25|Sinaloa
+26|Sonora
+27|Tabasco
+28|Tamaulipas
+29|Tlaxcala
+30|Veracruz
+31|Yucatán
+32|Zacatecas
+```{r Gráfica 1, echo=FALSE, warning=FALSE}
+
+ggplot(data=fem2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Modalidad),rows=vars(Año))+
+  labs(title="Feminicidios en México (SESNSP)")+coord_flip()
+
+ggplot(data=fem3,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
+  labs(title="Feminicidios en México 2 (SESNSP)")+coord_flip()
+
+ggplot(data=ab2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
+  labs(title="Abortos en México (SESNSP)")+coord_flip()
+ggplot(data=viol2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
+  labs(title="Violación simple en México (SESNSP)")+coord_flip()
+ggplot(data=violgen2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
+  labs(title="Violencia de género distinta a familiar (SESNSP)")+coord_flip()
+ggplot(data=violfam2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
+  labs(title="Violencia familiar (SESNSP)")+coord_flip()
+ggplot(data=absex2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
+  labs(title="Abuso sexual (SESNSP)")+coord_flip()
+ggplot(data=acoso2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
+  labs(title="Acoso sexual (SESNSP)")+coord_flip()
+ggplot(data=violeq2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
+  facet_grid(cols=vars(Clave_Ent),rows=vars(Año))+
+  labs(title="Violación equiparada (SESNSP)")+coord_flip()
+
+
+```
+
+
+
+
