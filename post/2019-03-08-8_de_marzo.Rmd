@@ -85,7 +85,7 @@ Equivalencia | Estado
 30|Veracruz
 31|Yucatán
 32|Zacatecas
-```{r Gráficas, echo=FALSE, warning=FALSE}
+```{r Gráficas, warning=FALSE, include=FALSE}
 
 ggplot(data=fem2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodge())+scale_fill_discrete()+
   facet_grid(cols=vars(Modalidad),rows=vars(Año))+
@@ -120,6 +120,18 @@ ggplot(data=violeq2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_dodg
 
 ```
 
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-1.png)
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-2.png)
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-3.png)
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-4.png)
 
+
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-5.png)
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-6.png)
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-7.png)
+
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-8.png)
+
+![](/post/2019-03-08-8_de_marzo_files/figure-html/Gráficas-9.png)
 
 
