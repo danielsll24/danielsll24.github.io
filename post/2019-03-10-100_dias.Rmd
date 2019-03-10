@@ -1,8 +1,6 @@
 ---
 title: "100 días de destrucción"
-output:
-  word_document: default
-  html_document: default
+output: html_document
 date: '2019-03-10'
 ---
 
@@ -10,7 +8,7 @@ Sin duda, hay muchos problemas en México pero también hay muchas cosas que se 
 
 En estos primeros 100 días de gobierno -que serían más si agregamos el periodo de transición donde Peña Nieto cedió todo espacio a AMLO- fuimos testigos de tres ejercicios de consulta popular que no han sido más que simulaciones y burla. Hechas por encima de la ley, seleccionando los lugares donde poner las casillas, sin Padrón Electoral ni cadena de custodia, y de decisiones ya tomadas de antemano pero buscando un respaldo popular a manera de justificación. Así se canceló la construcción del Nuevo Aeropuerto Internacional de México en el desecado Lago de Texcoco, se aprobó la creación de programas sociales que llama prioritarios y proyectos de infraestructura como la refinería de Dos Bocas en Tabasco y el Tren Maya, y que se terminaran las obras de un ducto para iniciar la operación de la termoeléctrica en Huexca, Morelos. 
 
-También se dio una embestida contra los órganos constitucionales autónomos y reguladores que son parte importante del México de la transición democrática. Primero con las renuncias forzadas de integrantes de la Comisión Reguladora de Energía y de la Comisión Nacional de Hidrocarburos ante presiones de la Secretaria de Energía, Rocío Nahle, luego con recortes a su presupuesto y tabuladores de salarios que mermaron a la burocracia y afectaron a los servidores públicos de confianza -que son quienes hacen que las cosas funcionen- y dejando intocados a los sindicalizados que constituyen un lastre para las agencias del gobierno. Destacan algunas iniciativas como desaparición de los Organismos Públicos Locales Electorales y reducción de 11 a 7 consejeros del INE o las propuestas para renovar integrantes en la CRE y la SCJN de personajes con dudosas tablas para el puesto pero con probada lealtad con AMLO y Morena. A esto le sumo los ataques desde el púlpito mañanero a instituciones como el INAI.  
+También se dio una embestida contra los órganos constitucionales autónomos y reguladores que son parte importante del México de la transición democrática. Primero con las renuncias forzadas de integrantes de la Comisión Reguladora de Energía y de la Comisión Nacional de Hidrocarburos ante presiones de la Secretaria de Energía, Rocío Nahle, luego con recortes a su presupuesto y tabuladores de salarios que mermaron a la burocracia y afectaron a los servidores públicos de confianza -que son quienes hacen que las cosas funcionen- y dejando intocados a los sindicalizados que constituyen un lastre para las agencias del gobierno. Destacan algunas iniciativas como desaparición de los Organismos Públicos Locales Electorales y reducción de 11 a 7 consejeros del INE o las propuestas para renovar integrantes en la CRE y la SCJN de personajes con dudosas tablas para el puesto pero con probada lealtad con AMLO y Morena. A esto le sumo los ataques desde el púlpito mañanero a instituciones como el INAI y la contrarreforma educativa claudicando en favor del SNTE y la CNTE con la pretensión de desaparecer al órgano que genera datos y evaluación en materia educativa, el INEE.  
 
 En estos 100 días también han ocurrido lamentables tragedias como la muerte de 5 personas en un accidente aéreo donde se encontraban la Gobernadora de Puebla Martha Érika Alonso y el Senador Rafael Moreno Valle, la explosión del ducto en Tlahuelilpan, Hidalgo con más de 130 muertes evitables de haber tomado medidas de protección civil y el asesinato del activista Samir Flores justo antes de la consulta de la termoeléctrica en Morelos a la que se oponía. 
 
