@@ -1,6 +1,6 @@
 library(tidyverse)
 Sys.setlocale("LC_ALL","UTF-8")
-datos <- read.csv(file.choose())
+datos <- read.csv("/Users/danielsll/Downloads/Estatal Delitos - enero 2019.csv")
 
 fem <- datos %>% 
   filter(Tipo.de.delito == "Feminicidio")
