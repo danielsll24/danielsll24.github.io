@@ -14,4 +14,100 @@ Esta reforma mandata al INE a organizar, recibir la votación y hacer los cómpu
 
 A diferencia de la consulta para la presidencia, en el caso de revocación de mandato para gobernadores y jefe de gobierno de la Ciudad de México sí es clara la minuta, pues establece que la consulta deberá realizarse solo una vez en el periodo de gobierno y en caso de proceder, deberá efectuarse en el tercer año del periodo.
 
-La minuta aprobada fue turnada al Senado. En mi opinión, espero que Morena y aliados (PT, PES, PVEM) no logren sumar la mayoría calificada para que no se apruebe esta figura que desvirtúa a mecanismos de participación ciudadana y constituye un falso mecanismo de rendición de cuentas vertical ya que el mismo Ejecutivo puede convocar a ella y puede convertirse en un cuidarse la espalda. En la lógica de la reelección consecutiva, un ocupante buscará seguir en su cargo en un siguiente periodo buscando aprobación de su *constituency* por su trabajo realizado, esto no ocurrirá con la revocación de mandato ya que se plantea a medio camino y tendrá un efecto de *presidential coattail* o arrastre al estar AMLO en campaña permanente con miras a superar la revocación y, como su partido es claramente de tipo personalista, empujar así a candidatos de Morena en la renovación de la Cámara de Diputados, gubernaturas, presidencias municipales y diputaciones locales aprovechando la concurrencia de procesos electorales federales y locales impuesta con la reforma político electoral de 2014. 
+La minuta aprobada fue turnada al Senado. En mi opinión, espero que Morena y aliados (PT, PES, PVEM) no logren sumar la mayoría calificada para que no se apruebe esta figura que desvirtúa a mecanismos de participación ciudadana y constituye un falso mecanismo de rendición de cuentas vertical ya que el mismo Ejecutivo puede convocar a ella y puede convertirse en un cuidarse la espalda. En la lógica de la reelección consecutiva, un ocupante buscará seguir en su cargo en un siguiente periodo buscando aprobación de su *constituency* por su trabajo realizado, esto no ocurrirá con la revocación de mandato ya que se plantea a medio camino y tendrá un efecto de *presidential coattail* o arrastre al estar AMLO en campaña permanente con miras a superar la revocación y, como su partido es claramente de tipo personalista, empujar así a candidatos de Morena en la renovación de la Cámara de Diputados, gubernaturas, presidencias municipales y diputaciones locales aprovechando la concurrencia de procesos electorales federales y locales impuesta con la reforma político electoral de 2014. Sin duda, Morena saldría beneficiado con esto, especialmente si sumamos el nuevo padrón de beneficiarios levantado por gente del partido y la entrega de apoyos en efectivo y de manera directa, que permiten la identificación de quién lo otorga. 
+
+¿Cómo logró Morena construir la mayoría calificada para aprobar esta reforma constitucional? Con 16 diputados ausentes, se necesitaba sumar 323 para aprobar el dictamen en lo general. 
+
+```{r echo=FALSE}
+library(ggplot2)
+library(waffle)
+
+a_favor <- c("Morena (254)"=254,"PAN (0)"=0,"PRI (3)"=3,"PES (26)" =26,"PT (28)"=28,"MC (0)"=0,"PRD (0)"=0,"PVEM (11)"=11,"SP (7)"=7)
+en_contra <- c("Morena (0)"=0,"PAN (76)"=76,"PRI (36)"=36,"PES (0)"=0,"PT (0)"=0,"MC (28)"=28,"PRD (11)"=11,"PVEM (0)"=0,"SP (2)"=2)
+abstención <- c("Morena (0)"=0,"PAN (0)"=0,"PRI (0)"=0,"PES (2)"=2,"PT (0)"=0,"MC (0)"=0,"PRD (0)"=0,"PVEM (0)"=0,"SP (0)"=0)
+ausencias <- c("Morena (4)"=4, "PAN (2)"=2,"PRI (8)"=8,"PES (1)"=1,"PT(1)"=1,"MC (0)"=0,"PRD (0)"=0,"PVEM (0)"=0,"SP (0)"=0)
+colores <- c("darkred","blue3","red3","purple3","red","darkorange1","yellow2","green3","grey50")
+G1<-waffle(
+  a_favor, rows = 10, size =1,
+  colors = colores,
+  title = "Votación en lo general, a favor",
+  xlab="(329)", pad=0
+)
+iron(G1)
+```
+
+Ya se esperaba que Morena, PES, PT y PVEM votaran en bloque y sumaron 319 votos. Los 10 votos restantes llegaron de los 7 diputados que abandonaron al PRD y quedaron sin partido y 3 priístas entre los que se encuentra el exgobernador de Coahuila Rubén Moreira.
+
+```{r echo=FALSE}
+G2<-waffle(
+  en_contra,rows=10, size=1,
+  colors = colores,
+  title="Votación en lo general, en contra",
+  xlab="(153)", pad=15)
+iron(G2)
+```
+
+También se esperaba que PAN, MC y PRD votaran juntos en contra del dictamen juntando 115 votos. 36 priistas y 2 diputados sin partido (Ahora) se sumaron a los votos en contra para llegar a 153.
+
+```{r echo=FALSE}
+G3<-waffle(
+  abstención, rows=1, size=1,
+  colors=colores,
+  title="Votación en lo general, abstenciones",
+  xlab="(2)",pad=15
+)
+iron(G3)
+```
+
+2 diputados del PES se abstuvieron en la votación, mientras que 16 legisladores se ausentaron en la votación. Si 9 de los 16 ausentes, todo lo demás constante, hubieran asistido y votado en contra del dictamen, esta reforma constitucional no se habría aprobado.
+
+```{r echo=FALSE}
+G4<-waffle(
+  ausencias, rows=1, size=1,
+  colors=colores,
+  title="Votación en lo general, ausencias",
+  xlab="(16)",pad=5
+)
+iron(G4)
+```
+
+Solo fueron admitidas las reservas del diputado morenista Alejandro Viedma y la votación quedó de la siguiente forma:
+
+```{r echo=FALSE}
+library(waffle)
+a_favor_r <- c("Morena (254)"=254,"PAN (0)"=0,"PRI (3)"=3,"PES (26)" =26,"PT (25)"=25,"MC (0)"=0,"PRD (0)"=0,"PVEM (11)"=11,"SP (7)"=7)
+en_contra_r <- c("Morena (0)"=0,"PAN (58)"=58,"PRI (31)"=31,"PES (0)"=0,"PT (0)"=0,"MC (25)"=25,"PRD (11)"=11,"PVEM (0)"=0,"SP (2)"=2)
+ausencias_r <- c("Morena (4)"=4, "PAN (20)"=20,"PRI (13)"=13,"PES (3)"=3,"PT(4)"=4,"MC (3)"=3,"PRD (0)"=0,"PVEM (0)"=0,"SP (0)"=0)
+colores <- c("darkred","blue3","red3","purple3","red","darkorange1","yellow2","green3","grey50")
+G5<-waffle(
+  a_favor_r, rows = 10, size =1,
+  colors = colores,
+  title = "Votación en lo particular, a favor",
+  xlab="(326)", pad=0
+)
+iron(G5)
+```
+
+326 votos a favor repitiendo el bloque Morena, PES, PT, PVEM y disidentes perredistas. En contra se sumaron 127 votos.
+
+```{r echo=FALSE}
+G6 <- waffle(
+  en_contra_r, rows=10, size=1,
+  colors=colores,
+  title = "Votación en lo particular, en contra",
+  xlab="(127)", pad=15
+)
+iron(G6)
+```
+
+Y 47 diputados optaron por ausentarse de la votación.
+
+```{r echo=FALSE}
+G7 <- waffle(
+  ausencias_r, rows=5, size=1,
+  colors=colores,
+  title = "Votación en lo particular, ausencias",
+  xlab="(47)", pad=15
+)
+iron(G7)
+```
