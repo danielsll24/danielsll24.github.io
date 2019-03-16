@@ -30,8 +30,8 @@ colores <- c("darkred","blue3","red3","purple3","red","darkorange1","yellow2","g
 G1<-waffle(
   a_favor, rows = 10, size =1,
   colors = colores,
-  title = "Votación en lo general, a favor",
-  xlab="(329)", pad=0
+  title = "Votación en lo general, a favor (329)",
+  xlab="Por Daniel Saavedra Lladó con datos de la Cámara de Diputados", pad=0
 )
 iron(G1)
 ```
@@ -42,8 +42,8 @@ Ya se esperaba que Morena, PES, PT y PVEM votaran en bloque y sumaron 319 votos.
 G2<-waffle(
   en_contra,rows=10, size=1,
   colors = colores,
-  title="Votación en lo general, en contra",
-  xlab="(153)", pad=15)
+  title="Votación en lo general, en contra (153)",
+  xlab="Por Daniel Saavedra Lladó con datos de la Cámara de Diputados", pad=15)
 iron(G2)
 ```
 
@@ -53,8 +53,8 @@ También se esperaba que PAN, MC y PRD votaran juntos en contra del dictamen jun
 G3<-waffle(
   abstención, rows=1, size=1,
   colors=colores,
-  title="Votación en lo general, abstenciones",
-  xlab="(2)",pad=15
+  title="Votación en lo general, abstenciones (2)",
+  xlab="Por Daniel Saavedra Lladó con datos de la Cámara de Diputados",pad=15
 )
 iron(G3)
 ```
@@ -65,8 +65,8 @@ iron(G3)
 G4<-waffle(
   ausencias, rows=1, size=1,
   colors=colores,
-  title="Votación en lo general, ausencias",
-  xlab="(16)",pad=5
+  title="Votación en lo general, ausencias (16)",
+  xlab="Por Daniel Saavedra Lladó con datos de la Cámara de Diputados",pad=5
 )
 iron(G4)
 ```
@@ -82,8 +82,8 @@ colores <- c("darkred","blue3","red3","purple3","red","darkorange1","yellow2","g
 G5<-waffle(
   a_favor_r, rows = 10, size =1,
   colors = colores,
-  title = "Votación en lo particular, a favor",
-  xlab="(326)", pad=0
+  title = "Votación en lo particular, a favor (326)",
+  xlab="Por Daniel Saavedra Lladó con datos de la Cámara de Diputados", pad=0
 )
 iron(G5)
 ```
@@ -94,8 +94,8 @@ iron(G5)
 G6 <- waffle(
   en_contra_r, rows=10, size=1,
   colors=colores,
-  title = "Votación en lo particular, en contra",
-  xlab="(127)", pad=15
+  title = "Votación en lo particular, en contra (127)",
+  xlab="Por Daniel Saavedra Lladó con datos de la Cámara de Diputados", pad=15
 )
 iron(G6)
 ```
@@ -106,8 +106,8 @@ Y 47 diputados optaron por ausentarse de la votación.
 G7 <- waffle(
   ausencias_r, rows=5, size=1,
   colors=colores,
-  title = "Votación en lo particular, ausencias",
-  xlab="(47)", pad=15
+  title = "Votación en lo particular, ausencias (47)",
+  xlab="Por Daniel Saavedra Lladó con datos de la Cámara de Diputados", pad=15
 )
 iron(G7)
 ```
