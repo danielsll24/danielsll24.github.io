@@ -3,6 +3,10 @@ title: "Revocación"
 output: html_document
 date: 2019-03-15
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
 Luego de una tensa discusión donde Morena usó afiches de López Obrador y la oposición denunciaba que se aprobaba la antesala a la reelección de AMLO, la Cámara de Diputados aprobó las modificaciones constitucionales a los artículos 35, 36, 73, 81, 83, 99, 115 y 122 con la finalidad de flexibilizar las consultas populares y crear la figura de revocación de mandato. 
 

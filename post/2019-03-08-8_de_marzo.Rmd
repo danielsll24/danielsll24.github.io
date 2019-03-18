@@ -119,7 +119,7 @@ g9<-ggplot(data=violeq2,aes(fct_inorder(Mes),Casos))+geom_col(position=position_
 
 
 ```
-```{r echo=TRUE, warning=FALSE}
+```{r echo=FALSE, warning=FALSE}
 g1
 g2
 g3
