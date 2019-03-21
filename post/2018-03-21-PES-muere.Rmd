@@ -1,0 +1,20 @@
+---
+title: "El PES por su boca muere"
+output: html_document
+date: 2019-03-21
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+Hace unos días escribí sobre el proyecto del Magistrado Felipe de la Mata para revivir al Partido Encuentro Social [Revivir al PES](https://danielsll24.github.io/2019/03/01/revivir-al-pes/). Esta semana se filtraron cambios a dicho proyecto donde el magistrado exponía que el registro del PES se puede mantener por el número de diputados que obtuvo por participar en coalición con Morena y PT, sin alcanzar el 3% de los votos. También asegura que no hubo transferencia de votos de los partidos coaligados, así como que fue manifestación de los electores a través de votación directa por los candidatos del PES como integrante de la coalición.
+
+El PES obtuvo 56 diputados fedeales y 8 senadores (11.2% y 6.25% respectivamente) y de acuerdo a de la Mata, es evidencia de que los candidatos electos son del partido político y se asumen dentro de ese partido en representación del mandato recibido en las elecciones. El magistrado refiere que esto se trata de la aplicación de la Constitución en lo referente a que los partidos que han demostrado tener fuerza representativa **significativa** conserven su registro, siendo esta vez la primera en que se presenta este caso.
+
+Antes de la sesión de ayer, el mismo magistrado Felipe de la Mata, volvió a cambiar el proyecto para quedar en los términos que lo presentó ante la Sala Superior del TEPJF. Menciona que el PES no puede seguir siendo un partido político nacional al no alcanzar la representación ciudadana necesaria, es decir, no tener los suficientes votos **por sí mismo en las pasadas elecciones, sino por mayoría relativa**. Concluye que esta es la verdad numérica y por ende también la verdad legal.
+
+No cantemos victoria quienes nos oponemos a la existencia de un partido evangélico y confesional que atenta contra la laicidad, sus hasta ayer dirigentes anunciaron que iniciaron el camino ante el INE para la creación de un nuevo partido político con la misma línea. Insisten en que los votos fueron mal contados y que les correspondían más votos de los repartidos entre sus coaligados.
+
+
+
