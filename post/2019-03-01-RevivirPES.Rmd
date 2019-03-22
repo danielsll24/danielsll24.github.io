@@ -3,6 +3,10 @@ title: "Revivir al PES"
 output: html_document
 date: 2019-03-01
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
 El Tribunal Electoral del Poder Judicial de la Federación (TEPJF) se prepara para cometer nuevamente una salvajada con el objetivo de otorgar el registro y prerrogativas al Partido Encuentro Social (PES), recordando la decisión de 2015 donde ordenó esperar los resultados de la elección extraordinaria en un distrito de Aguascalientes para que el Partido del Trabajo (PT) lograra superar el umbral y mantuviera su registro. 
 
