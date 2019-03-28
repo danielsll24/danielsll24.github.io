@@ -1,0 +1,62 @@
+---
+title: "La burla y la trampa"
+output: html_document
+date: 2019-03-27
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+El pasado 21 de marzo, el pleno del Senado rechazó las cuatro ternas propuestas por AMLO para ocupar las vacantes de la Comisión Reguladora de Energía. Los aspirantes necesitaban superar 79 votos de los 119 senadores presentes que emitieron su voto con el fin de conseguir el nombramiento, ninguno lo logró.
+
+Terna 1|Votos
+---|---
+Ángel Carrizales|0
+Paola López |3
+Luis Linares|73
+En contra|42
+Abstención|1
+
+
+Terna 2|Votos
+---|---
+Leticia Campos|74
+Jorge Amaya|0
+Alfonso López|1
+En contra|42
+Abstención|1
+
+
+Terna 3|Votos
+---|---
+José Celestinos|75
+Mario Galicia|0
+En contra|42
+Abstención|1
+
+
+Terna 4|Votos
+---|---
+Edmundo Sánchez|75
+Guadalupe Escalante|1
+Fernando Juárez|0
+En contra|42
+Abstención|1
+
+Al no obtener ninguno de los aspirantes los 2/3 de los votos de los senadores presentes, las ternas fueron rechazadas y se notificó al Ejecutivo federal para que envíe las nuevas ternas. 
+
+Ante el rechazo del Senado por considerar no idóneos a los candidatos, AMLO anunció que presentaría las nuevas ternas pero amenazó con incluir a los aspirantes que reunieron la mayor cantidad de votos. En la tarde del 26 de marzo, la mesa directiva del Senado anunció que recibió las nuevas ternas, pero se trataba de los mismos candidatos pero propuestos en una terna distinta a las presentadas antes. 
+
+Terna 1: Jorge Amaya, Luis Linares y Paola López
+
+Terna 2: José Celestinos, Mario Galicia y Fernando Juárez
+
+Terna 3: Leticia Campos, Ángel Carrizales y Alfonso López
+
+Terna 4: Guadalupe Escalante, Edmundo Sánchez e Ignacio Vázquez
+
+
+El único cambio sustantivo fue Ignacio Vázquez en lugar de Raúl Morales, quien no se presentó. Los demás cambios son solamente de lugar. La burla al Senado está en volver a postular candidatos que hicieron gala de su ignorancia al desconocer las funciones de la CRE y falta de conocimientos básicos en materia de energía, así como mostrarse cínicos al buscar definiciones en Wikipedia o mostrar un teléfono celular cuando se pedía la definición de un CEL (Certificado de Energía Limpia).
+
+Esta situación también puso una trampa al Senado, si deciden desechar estas ternas por segunda vez, el presidente podría designar directamente a los 4 comisionados; pero si el Senado decide avalar los nombramientos se haría corresponsable de aprobar a candidatos de los que ya se hizo patente su falta de conocimientos y preparación para desempeñarse como comisionados de la CRE. Es un dilema entre perder y perder. 

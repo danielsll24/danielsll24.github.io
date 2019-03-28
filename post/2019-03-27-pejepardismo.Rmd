@@ -1,0 +1,14 @@
+---
+title: "Pejepardismo"
+output: html_document
+date: 2019-03-27
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+El Senado había rechazado las ternas para llenar las vacantes de la Comisión Reguladora de Energía. AMLO, como si se tratara de una burla, cambió el orden de los candidatos pero envió a 11 de los 12 que había propuesto hace un par de meses. Ahora el Senado está en una trampa: Nombra a los comisionados a partir de estas cuatro ternas formadas por candidatos que hicieron evidente su ignorancia en las comparecencias o las rechazan dando poder al Ejecutivo para designar a los nuevos comisionados mientras continúa presionando a Guillermo García Alcocer vía la Secretaría de la Función Pública. 
+
+Dos semanas lleva la CNTE obstaculizando los trabajos en la Cámara de Diputados. Se han cancelado 3 sesiones del Pleno y pospuesto para hoy la sesión de las comisiones de educación y puntos constitucionales para dictaminar la reforma educativa que envió AMLO en diciembre. Un grupo de interés formado por la disidencia magisterial presiona al gobierno con tal de revivir viejas prebendas y plazas que perdieron a raíz de la reforma en 2013. El gobierno de la CDMX no ha hecho nada para impedir el bloqueo que tiene detenidas a personas dentro de la Cámara. Pejepardismo, cambiar todo para que todo siga igual. 
+
