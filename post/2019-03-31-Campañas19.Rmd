@@ -22,13 +22,14 @@ mapamex$region<-as.double(mapamex$region)
 #Baja California
 Baja California es un bastión electoral del Partido Acción Nacional desde 1989 y no han perdido esta gubernatura en 30 años.
 
-```{r echo=FALSE}
+```{r bc, echo=FALSE}
 bc<-mapamex %>% filter(region==2)
-ggplot(bc, aes(long, lat, group=group))+
+baja<-ggplot(bc, aes(long, lat, group=group))+
   geom_polygon(fill="royalblue", color="black", size=0.2)+
   coord_map()+theme_void()+
   labs(title="Baja California",
        subtitle="Gubernatura")
+baja
 ```
 
 Los candidatos que contendrán para ocupar por dos años el gobierno del estado son:
@@ -51,13 +52,14 @@ El estado de Puebla acudirá nuevamente a las urnas para elegir gobernador luego
 
 Actualmente el cargo de gobernador lo desempeña el priista Guillermo Pacheco con apoyo de Morena y lo que queda de Encuentro Social.
 
-```{r echo=FALSE}
+```{r pue, echo=FALSE}
 pue<-mapamex %>% filter(region==21)
-ggplot(pue, aes(long, lat, group=group))+
+puebla<-ggplot(pue, aes(long, lat, group=group))+
   geom_polygon(fill="red", color="black", size=0.2)+
   coord_map()+theme_void()+
   labs(title="Puebla",
        subtitle="Gubernatura y 5 Ayuntamientos")
+puebla
 ```
 
 También se renovarán 5 Ayuntamientos cuyas elecciones fueron anuladas. Estos municipios son Ahuazotepec, Cañada Morelos, Mazapiltepec de Juárez, Ocoyucan y Tepeojuma. 
