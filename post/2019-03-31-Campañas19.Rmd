@@ -52,7 +52,7 @@ El estado de Puebla acudirá nuevamente a las urnas para elegir gobernador luego
 
 Actualmente el cargo de gobernador lo desempeña el priista Guillermo Pacheco con apoyo de Morena y lo que queda de Encuentro Social.
 
-```{r pue, echo=FALSE}
+```{r puebla, echo=FALSE}
 pue<-mapamex %>% filter(region==21)
 puebla<-ggplot(pue, aes(long, lat, group=group))+
   geom_polygon(fill="red", color="black", size=0.2)+
