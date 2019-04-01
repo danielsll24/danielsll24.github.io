@@ -1,0 +1,35 @@
+---
+title: "Seguridad, primeros 3 meses"
+output: html_document
+date: 2019-03-30
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(include = FALSE)
+library(tidyverse)
+library(readr)
+```
+
+Mucho se ha escrito sobre los primeros 100 días del actual gobierno pero ¿cómo arrancó en materia de seguridad? La estrategia de seguridad está en el Senado y no se ha aprobado aún, las reformas constitucionales para crear la guardia nacional apenas fueron publicadas y falta la legislación secundaria. 
+
+El gobierno anunció hace unos meses que dividiría el territorio nacional en 266 regiones de las cuales 150 recibirán atención prioritaria. Coinciden con regiones de administraciones anteriores.
+
+Una de las primeras acciones que implementó este gobierno consistió en desplegar 600 elementos de la Marina, Ejército y Policía Federal en 17 regiones. 
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

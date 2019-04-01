@@ -1,0 +1,84 @@
+---
+title: "Inician campañas locales 2019"
+output: html_document
+date: 2019-03-31
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+Hoy arrancan las campañas electorales para renovar las gubernaturas de 2 de los 6 estados con procesos electorales locales en este año. Puebla elegirá en un proceso extraordinario a quien concluirá el periodo que inició Martha Erika Alonso y 5 Ayuntamientos cuyas elecciones fueron anuladas en 2018, mientras que Baja California elegirá gobernador para 2 años, ya que en 2021 el calendario local se empatará con el federal. 
+
+Las campañas para renovar los Ayuntamientos en Durango iniciarán el 10 de abril, mientras que todas las demás campañas (Aguascalientes-Ayuntamientos, Baja California-Diputaciones locales y Ayuntamientos, Tamaulipas-Diputaciones locales, Quintana Roo-Diputaciones locales) y terminará el 29 de mayo para acudir a las urnas el 2 de junio.
+
+
+```{r setup, include=FALSE}
+
+library(tidyverse)
+library(mxmaps)
+```
+
+```{r include=FALSE}
+mapamex<-mxstate.map
+mapamex$region <- as.double(mapamex$region)
+ags<-mapamex %>% filter(region<=01011)
+ggplot(ags, aes(long, lat, group=group)) +
+    geom_polygon(fill = "white", color = "black", size = .2) +
+    coord_map()+
+    theme_void()+
+    labs(title="Aguascalientes",subtitle = "11 Ayuntamientos")
+```
+#Baja California
+Baja California es un bastión electoral del Partido Acción Nacional desde 1989 y no han perdido esta gubernatura en 30 años.
+
+```{r echo=FALSE}
+bc<-mapamex %>% filter(region==2)
+ggplot(bc, aes(long, lat, group=group))+
+  geom_polygon(fill="royalblue", color="black", size=0.2)+
+  coord_map()+theme_void()+
+  labs(title="Baja California",
+       subtitle="Gubernatura")
+```
+
+Los candidatos que contendrán para ocupar por dos años el gobierno del estado son:
+
+Candidato  |  Partido  |
+:------:|:------:
+Óscar Vega Marín | PAN
+Enrique Acosta Fregoso | PRI
+Jaime Martínez Veloz | PRD
+Héctor Osuna Jaime | MC
+Jaime Bonilla | Juntos Haremos Historia en Baja California (Morena, PT, PVEM, Transformemos)
+Ignacio Anaya | PBC
+
+El morenista Jaime Bonilla arranca como el favorito para ganar la elección, lo que pondría fin a 30 años de gobiernos emanados del PAN. Bonilla fue diputado federal por el PT entre 2012 y 2015, senador por Morena en 2018 y superdelegado del gobierno federal en 2018 y 2019. Es dueño de medios de comunicación escrita y estaciones de radio en Baja California y California, Estados Unidos. Nacido en Tijuana, Baja California contaba también con la nacionalidad estadounidense hasta el año 2012. Afiliado al Partido Republicano, donó para la campaña presidencial de John McCain en 2008 y fue presidente de la Otay Water Board of Directors.
+
+Su competidor más cercano es el panista Óscar Vega Marín. Ha desempeñado varios cargos a nivel municipal y encabezó la Secretaría de Educación y Bienestar Social entre 2007 y 2010, así como participó en la campaña a gobernador de José Guadalupe Osuna Millán y coordinó la del gobernador actual Francisco Vega de Lamadrid.
+
+#Puebla
+El estado de Puebla acudirá nuevamente a las urnas para elegir gobernador luego del fatídico accidente ocurrido el 24 de diciembre de 2018 donde, tras 10 días en el cargo y un largo proceso de impuganciones, fallecieran la gobernadora Martha Erika Alonso y el exgobernador y senador Rafael Moreno Valle. 
+
+Actualmente el cargo de gobernador lo desempeña el priista Guillermo Pacheco con apoyo de Morena y lo que queda de Encuentro Social. 
+```{r echo=FALSE}
+pue<-mapamex %>% filter(region==21)
+ggplot(pue, aes(long, lat, group=group))+
+  geom_polygon(fill="red", color="black", size=0.2)+
+  coord_map()+theme_void()+
+  labs(title="Puebla",
+       subtitle="Gubernatura y 5 Ayuntamientos")
+```
+
+También se renovarán 5 Ayuntamientos cuyas elecciones fueron anuladas. Estos municipios son Ahuazotepec, Cañada Morelos, Mazapiltepec de Juárez, Ocoyucan y Tepeojuma. 
+
+Solamente se registraron 3 candidatos. Enrique Cárdenas contendrá en candiatura común formada por el PAN, PRD y MC. Cárdenas fue rector de la UDLAP y director ejecutivo del Centro de Estudios Espinosa Yglesias, es economista por el ITAM y doctor en economía por la Universidad de Yale. En 2018 trató de estar en la boleta con el logo de Morena y recabó firmas para buscar sin conseguir la candidatura independiente al gobierno de Puebla.
+
+Miguel Barbosa, exsenador por PT-Morena, repetirá su candidatura y parte como el favorito. Fue diputado federal por el PRD entre 2000 y 2003 y presidió la Mesa Directiva del Senado entre 2014 y 2015. Luego de su derrota en 2018, inició una larga serie de impugnaciones con el fin de declarar la nulidad de los comicios, el Tribunal Electoral del Poder Judicial de la Federación realizó un recuento de los votos y ratificó el triunfo de la fallecida gobernadora. 
+
+El candidato priista, Alberto Jiménez Merino, fue delegado de SAGARPA el sexenio pasado y ha sido diputado local y federal. Es integrante de centrales campesinas.
+
+Candidato  |  Partido  |
+:------:|:------:
+Enrique Cárdenas Sánchez|Candidatura común PAN, PRD, MC
+Alberto Jiménez Merino|PRI
+Miguel Barbosa Huerta|Juntos Haremos Historia en Puebla (Morena, PT, PVEM)
