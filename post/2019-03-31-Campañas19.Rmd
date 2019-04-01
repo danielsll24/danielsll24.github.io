@@ -12,22 +12,12 @@ Hoy arrancan las campañas electorales para renovar las gubernaturas de 2 de los
 
 Las campañas para renovar los Ayuntamientos en Durango iniciarán el 10 de abril, mientras que todas las demás campañas (Aguascalientes-Ayuntamientos, Baja California-Diputaciones locales y Ayuntamientos, Tamaulipas-Diputaciones locales, Quintana Roo-Diputaciones locales) y terminará el 29 de mayo para acudir a las urnas el 2 de junio.
 
-
-```{r setup, include=FALSE}
-
-library(tidyverse)
-library(mxmaps)
-```
-
 ```{r include=FALSE}
+library(mxmaps)
+library(tidyverse)
+library(magrittr)
 mapamex<-mxstate.map
-mapamex$region <- as.double(mapamex$region)
-ags<-mapamex %>% filter(region<=01011)
-ggplot(ags, aes(long, lat, group=group)) +
-    geom_polygon(fill = "white", color = "black", size = .2) +
-    coord_map()+
-    theme_void()+
-    labs(title="Aguascalientes",subtitle = "11 Ayuntamientos")
+mapamex$region<-as.double(mapamex$region)
 ```
 #Baja California
 Baja California es un bastión electoral del Partido Acción Nacional desde 1989 y no han perdido esta gubernatura en 30 años.
@@ -81,4 +71,4 @@ Candidato  |  Partido  |
 :------:|:------:
 Enrique Cárdenas Sánchez|Candidatura común PAN, PRD, MC
 Alberto Jiménez Merino|PRI
-Miguel Barbosa Huerta|Juntos Haremos Historia en Puebla (Morena, PT, PVEM)
+Miguel Barbosa Huerta|Juntos Haremos Historia en Puebla (Morena, PT, PVEM).
