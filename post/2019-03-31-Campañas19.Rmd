@@ -49,7 +49,8 @@ Su competidor más cercano es el panista Óscar Vega Marín. Ha desempeñado var
 #Puebla
 El estado de Puebla acudirá nuevamente a las urnas para elegir gobernador luego del fatídico accidente ocurrido el 24 de diciembre de 2018 donde, tras 10 días en el cargo y un largo proceso de impuganciones, fallecieran la gobernadora Martha Erika Alonso y el exgobernador y senador Rafael Moreno Valle. 
 
-Actualmente el cargo de gobernador lo desempeña el priista Guillermo Pacheco con apoyo de Morena y lo que queda de Encuentro Social. 
+Actualmente el cargo de gobernador lo desempeña el priista Guillermo Pacheco con apoyo de Morena y lo que queda de Encuentro Social.
+
 ```{r echo=FALSE}
 pue<-mapamex %>% filter(region==21)
 ggplot(pue, aes(long, lat, group=group))+
