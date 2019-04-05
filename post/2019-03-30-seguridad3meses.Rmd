@@ -1,7 +1,7 @@
 ---
 title: "Seguridad, primeros 3 meses"
 output: html_document
-date: 2019-03-30
+date: 2019-04-02
 ---
 <style>
 body {
@@ -18,10 +18,32 @@ Mucho se ha escrito sobre los primeros 100 días del actual gobierno pero ¿cóm
 
 El gobierno anunció hace unos meses que dividiría el territorio nacional en 266 regiones de las cuales 150 recibirán atención prioritaria. Coinciden con regiones de administraciones anteriores.
 
-Una de las primeras acciones que implementó este gobierno consistió en desplegar 600 elementos de la Marina, Ejército y Policía Federal en 17 regiones. 
+Una de las primeras acciones que implementó este gobierno consistió en desplegar 600 elementos de la Marina, Ejército y Policía Federal en 17 regiones donde iniciaron los operativos de manera prioritaria.
 
-```{r cars}
-summary(cars)
+Región|Municipios|Estado
+:---:|:---:|:---:
+Tijuana|Tijuana, Playas de Rosarito|Baja California
+Culiacán|Culiacán|Sinaloa
+Tlajomulco|Tlajomulco de Zúñiga, Tlaquepaque|Jalisco
+Nuevo Laredo|Nuevo Laredo, Guerrero, Mier, Miguel Alemán|Nuevo Laredo
+Reynosa|Reynosa, Camargo, Gustavo Díaz Ordaz|Tamaulipas
+Salamanca|Salamanca, Jaral del Progreso, Santa Cruz de Juventino Rosas, Valle de Santiago, Villagrán|Guanajuato
+Uriangato|Cortázar, Moroleón, Salvatierra, Santiago, Maravatio, Uriangato, Yuriria|Guanajuato
+Monterrey|Monterrey, General Escobedo|Nuevo León
+Celaya|San Miguel de Allende, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort|Guanajuato
+Benito Juárez|Puerto Morelos, Benito Juárez|Quintana Roo
+Acapulco|Acapulco|Guerrero
+Chilpancingo|Chilpancingo de los Bravo, Eduardo Mier, Gral. Heliodoro Castillo, Leonardo Bravo|Guerrero
+Manzanillo|Manzanillo, Minatitlán, Tecoman, Armería|Colima
+Guadalajara|Guadalajara|Jalisco
+Ecatepec|Ecatepec|Estado de México
+Juárez|Ciudad Juárez, Guadalupe, Práxedis G. Guerrero|Chihuahua
+
+Revisando las cifras de homicidios reportadas por el Secretariado Ejecutivo del Sistena Nacional de Seguridad Pública correspondientes a los 3 primeros meses del año y comparándolas con los primeros 3 meses de años anteriores 
+
+
+```{r homicidios, echo=FALSE}
+
 ```
 
 ## Including Plots

@@ -1,0 +1,19 @@
+---
+title: 'Court packing en México'
+output: html_document
+date: 2019-04-04
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+Levitsky y Ziblat relatan en su libro *How democracies die*(2018) algunos episodios de la política americana donde se alteró el tamaño de la Suprema Corte. Uno que es conocido y no resultó exitoso ocurrió en 1937 cuando el recién reelecto presidente Franklin D. Roosevelt trató de aumentar el número de ministros en la Corte al agregar a 6 nuevos, pasando de 9 a 15.
+
+Esto se conoce como **court packing** y es la estrategia que siguen los gobiernos para buscar controlar la Corte ya sea destituyendo ministros que le son adversos o nombrando a muchos afines creciendo así el pleno. 
+
+Roosevelt contaba con popularidad y amplias mayorías en ambas cámaras, pero encontró oposición en los dos partidos ya que, aunque la Constitución no especifica cómo debe integrarse la Corte, se había llegado al entendimiento de una regla informal donde no se alteraría el tamaño de la Corte reconociendo el carácter autoritario de esta medida que trastoca tanto al sistema político como a la división de poderes propia de un sistema presidencial. 
+
+Traigo esto a colación por el anuncio de Ricardo Monreal, coordinador de la bancada de Morena en el Senado, para crear una tercera sala en la Suprema Corte de Justicia de la Nación que se encargaría de temas anticorrupción. Para crear esta sala proponen nombrar a 5 nuevos ministros de una sola vez y ampliar el umbral de mayoría calificada a 11 de 16. En dos procedimientos desaseados, AMLO ya empujó a los ministros Juan Luis González Alcántara y Yasmín Esquivel y en diciembre de 2021 impulsará otro ministro a modo ante la salida del ministro José Fernando Franco. De aprobarse esta reforma, AMLO habrá nombrado a 8 de 16 ministros y luego del nivel de los nominados a la CRE, cercanía con él de quienes integraron las ternas para la SCJN y perfil afín a sus ideas, hay claros indicios de que busca controlar a la Corte con esta maniobra. 
+
+En el libro, los autores alertan sobre comportamientos autoritarios de gobernantes y lo difícil que es que los ciudadanos nos demos cuenta y reaccionemos hasta que la democracia se derrumbe por la legitimidad que gozan luego de llegar al poder vía electoral y realizar reformas legales pero dañinas para la democracia aprobadas de forma gradual. Controlar a los árbitros siempre deriva en autoritarismo y es fácil engañar si se disfraza con un fin que nadie se opondría como combate a la corrupción.  
