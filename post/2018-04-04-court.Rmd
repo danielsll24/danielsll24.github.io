@@ -1,5 +1,5 @@
 ---
-title: 'Court packing en México'
+title: 'Court-packing en México'
 output: html_document
 date: 2019-04-04
 ---
@@ -8,7 +8,7 @@ body {
 text-align: justify}
 </style>
 
-Levitsky y Ziblat relatan en su libro *How democracies die*(2018) algunos episodios de la política americana donde se alteró el tamaño de la Suprema Corte. Uno que es conocido y no resultó exitoso ocurrió en 1937 cuando el recién reelecto presidente Franklin D. Roosevelt trató de aumentar el número de ministros en la Corte al agregar a 6 nuevos, pasando de 9 a 15.
+Levitsky y Ziblatt relatan en su libro *How democracies die*(2018) algunos episodios de la política americana donde se alteró el tamaño de la Suprema Corte. Uno que es conocido y no resultó exitoso ocurrió en 1937 cuando el recién reelecto presidente Franklin D. Roosevelt trató de aumentar el número de ministros en la Corte al agregar a 6 nuevos, pasando de 9 a 15.
 
 Esto se conoce como **court packing** y es la estrategia que siguen los gobiernos para buscar controlar la Corte ya sea destituyendo ministros que le son adversos o nombrando a muchos afines creciendo así el pleno. 
 
