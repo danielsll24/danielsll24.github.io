@@ -1,0 +1,29 @@
+---
+title: "Seguridad: López miente"
+output: html_document
+date: 2019-04-14
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+A raíz del intercambio entre Andrés Manuel López Obrador y el periodista Jorge Ramos en la conferencia mañanera del viernes 12 de abril se pudo ver que el gobierno lleva una doble contabilidad en las cifras preliminares de delitos y víctimas. Por un lado está lo reportado cada día 20 de mes por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y por otro lado el reporte preliminar que le presentan a AMLO cada día. Queda la duda de si están usando este segundo reporte a propósito para informar con datos que los homicidios dolosos están disminuyendo o esto se lo presentan a AMLO para que crea que está haciendo algo bien cuando podemos ver que todo se le está yendo de las manos. 
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
