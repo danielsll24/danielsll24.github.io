@@ -12,15 +12,15 @@ En la noche de ayer, el Congreso de Baja California sesionó de forma extraordin
 
 Este asunto no es nuevo, voy a tratar de reconstruir la historia. La diputada Blanca Patricia Ríos López del PRI presentó en octubre del año pasado, una iniciativa para modificar el plazo de los cargos de las diputaciones locales, presidencias municipales y gubernatura, para que esta acabe en 2024.
 
-El proceso electoral 2018-2019 en Baja California inició el 9 de septiembre de 2018 y la convocatoria a las elecciones ordinarias se publicó 28 de diciembre de 2018 por parte del Instituto Estatal Electoral de Baja California. 
+El proceso electoral 2018-2019 en Baja California inició el 9 de septiembre de 2018 y la convocatoria a las elecciones ordinarias se publicó el 28 de diciembre de 2018 por parte del Instituto Estatal Electoral de Baja California (IEEBC). 
 
-El 5 de enero de 2019 el Instituto Estatal Electoral de Baja California (IEEBC) publicó la convocatoria a las elecciones ordinarias 2018-2019, entre ellas a la gubernatura por un periodo comprendido entre el 1 de noviembre de 2019 y el 31 de octubre de 2021, de acuerdo al artículo octavo transitorio del decreto 112 aprobado el 11 de septiembre de 2014, en concordancia con la reforma político electoral de 2014.
+El 5 de enero de 2019 el IEEBC publicó la convocatoria a las elecciones ordinarias 2018-2019, entre ellas a la gubernatura por un periodo comprendido entre el 1 de noviembre de 2019 y el 31 de octubre de 2021, de acuerdo al artículo octavo transitorio del decreto 112 aprobado el 11 de septiembre de 2014, en concordancia con la reforma político electoral de 2014.
 
-El 24 de febrero de 2019, el Tribunal de Justicia Electoral del Estado de Baja California (TJEBC) ordenó que el IEEBC, una vez iniciado el proceso electoral, que repitiera la convocatoria a la elección de gobernador por un plazo de 5 años al considerar que con la restricción de gubernatura por 2 años se estaban violando los derechos político electorales de la precandidata de Morena Blanca Estala Fabela Dávalos, ya que la cámara local podía optar por un plazo de 2 o de 5 años. 
+El 24 de febrero de 2019, el Tribunal de Justicia Electoral del Estado de Baja California (TJEBC) ordenó que el IEEBC, una vez iniciado el proceso electoral, repitiera la convocatoria a la elección de gobernador por un plazo de 5 años al considerar que con la restricción de gubernatura por 2 años se estaban violando los derechos político electorales de la precandidata de Morena Blanca Estala Fabela Dávalos, ya que la cámara local podía optar por un plazo de 2 o de 5 años. 
 
 El 7 de mayo, el TJEBC amplió de 2 a 6 años el plazo de la gubernatura. Este asunto llegó a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, quien rechazó en marzo, mayo y junio las modificaciones al octavo transitorio, por lo que quedó en una gubernatura de 2 años. 
 
-El 2 de junio se llevó a cabo la jornada electoral en Baja California, resultando ganador el candidato de la coalición Juntos Haremos Historia encabezada por el morenista Jaime Bonilla, quien se alzó con el triunfo con más del 50% de los votos y una abstención mayor al 70%. El candidato ganador controvirtió el dictamen que le daba el triunfo con la idea de alterar el tiempo en el que gobernará pero este asunto fue turnado a la Magistrada Elva Regina Jiménez, quien siempre había votado en contra de modificar el octavo transitorio.
+El 2 de junio se llevó a cabo la jornada electoral en Baja California, resultando ganador el candidato de la coalición Juntos Haremos Historia encabezada por el morenista Jaime Bonilla, quien obtuvo más del 50% de los votos y se registró una abstención mayor al 70%. Bonilla controvirtió el dictamen que le daba el triunfo con la idea de alterar el tiempo en el que gobernará pero este asunto fue turnado a la Magistrada Elva Regina Jiménez, quien siempre había votado en contra de modificar el octavo transitorio.
 
 Así llegamos a la sesión extraordinaria celebrada anoche en Tijuana, donde el diputado por Morena Víctor Manuel Morán presentó una iniciativa para modificar el octavo transitorio ampliando a 5 años la gubernatura que en unos días iniciará el gobernador electo Bonilla. 
 
@@ -38,7 +38,7 @@ library(ggparl)
 ggplot_parliament(partidos, members=asientos,party_colors=colors,text_total=TRUE)
 ```
 
-El PAN cuenta con un la mayoría relativa de 12 legisladores, seguido del PRI con 5, 3 de Morena y 1 legislador para cada uno de los partidos restantes. Al tener 25 diputados y tratarse de una reforma constitucional, bastaba con sumar 17 diputados. 
+El PAN cuenta con la mayoría relativa de 12 legisladores, seguido del PRI con 5, 3 de Morena y 1 legislador para cada uno de los partidos restantes. Al tener 25 diputados y tratarse de una reforma constitucional, bastaba con sumar 17 diputados para modificar la constitución local. 
 
 La asistencia a la sesión fue de 23 diputados ya que no se presentaron Jorge Eugenio Núñez Lozano del Partido de Baja California y Eva María Vásquez Hernández del PAN.
 ```{r include=FALSE}
