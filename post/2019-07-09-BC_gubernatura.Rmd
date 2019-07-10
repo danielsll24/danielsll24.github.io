@@ -22,7 +22,7 @@ El 7 de mayo, el TJEBC amplió de 2 a 6 años el plazo de la gubernatura. Este a
 
 El 2 de junio se llevó a cabo la jornada electoral en Baja California, resultando ganador el candidato de la coalición Juntos Haremos Historia encabezada por el morenista Jaime Bonilla, quien obtuvo más del 50% de los votos y se registró una abstención mayor al 70%. Bonilla controvirtió el dictamen que le daba el triunfo con la idea de alterar el tiempo en el que gobernará pero este asunto fue turnado a la Magistrada Elva Regina Jiménez, quien siempre había votado en contra de modificar el octavo transitorio.
 
-Así llegamos a la sesión extraordinaria celebrada anoche en Tijuana, donde el diputado por Morena Víctor Manuel Morán presentó una iniciativa para modificar el octavo transitorio ampliando a 5 años la gubernatura que en unos días iniciará el gobernador electo Bonilla. 
+Así llegamos a la sesión extraordinaria celebrada anoche en Mexicali, donde el diputado por Morena Víctor Manuel Morán presentó una iniciativa para modificar el octavo transitorio ampliando a 5 años la gubernatura que en unos días iniciará el gobernador electo Bonilla. 
 
 El Congreso de Baja California está conformado de la siguiente manera: 
 ```{r congreso BC, include=FALSE}
