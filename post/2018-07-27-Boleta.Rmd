@@ -1,0 +1,35 @@
+---
+title: "La boleta de AMLO a 8 meses"
+output: html_document
+date: 2019-07-27
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+Levitsky y Ziblatt presentaron en su libro *How Democracies Die (2018)* una boleta donde califican a los líderes probablemente autoritarios que llegan al poder a un año de iniciar su cargo. En la tabla aparecen personajes como el argentino Juan D. Perón y gobernantes actuales como Viktor Orban de Hungría.
+
+AMLO lleva ocho meses en el cargo, pero casi completa el año tomando decisiones sin ser gobierno. En esta entrada repetiré el ejercicio de la boleta autoritaria añadiendo a AMLO, evaluando las decisiones y acciones que ha hecho en este periodo, a raíz de lo ocurrido con la prensa y CONEVAL.
+
+La boleta califica tres rubros de los gobernantes electos democráticamente pero posiblemente autoritarios. Estos rubros son esfuerzos por capturar a los árbitros, cooptar a jugadores políticos clave que de otra forma podrían afectarlo e inclinar la cancha.
+
+País|Líder|Fecha de inicio|Captura de árbitros|Cooptar jugadores|Cambiar reglas|Eventual destino del régimen
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+México|Andrés Manuel López Obrador|1-dic-2019|Sí|Sí|Sí|??
+
+Es indudable que AMLO ha cometido varias acciones que dejan ver rasgos autoritarios en su gobierno, siempre justificados por la austeridad y la lucha contra la corrupción que cree encabezar. 
+
+1. Captura de árbitros
+  - Suprema Corte de Justicia de la Nación: Presentó dos ternas muy cuestionables por estar integradas por personajes cercanos a él o a su partido político. Al final logró que llegaran al máximo tribunal Yazmín Esquivel y Juan González Alcántara. La presidencia de la SCJN está en Arturo Zaldívar, juez cercano a la ex ministra y ahora secretaria de gobernación Olga Sánchez Cordero. Con un juez más que logre impulsar AMLO, tendrá 4 votos que le permitirán vetar las resoluciones de revisión constitucional que emita la Corte.
+  - Tribunal Electoral del Poder Judicial de la Federación: Después de la polémica cadena de impugnaciones y el fallo del tribunal para no anular la elección a la gubernatura de Puebla en 2018, se hicieron públicas las presiones que recibía la magistrada presidenta de la máxima autoridad en materia de justicia electoral, mismas que llevaron a su sustitución.
+  - Instituto Nacional Electoral: El Pleno del INE buscó castigar a Morena por el financiamiento irregular a través de un fideicomiso presuntamente utilizado para la reconstrucción tras los sismos de 2017. El consejero José Roberto Ruiz Saldaña fue el único que votó en contra de sancionar a Morena. Por otro lado, los legisladores del partido en el gobierno pretenden reducir el número de consejeros electorales o desaparecer el Consejo General y eliminar a los Organismos Públicos Locales Electorales en las 32 entidades federativas.
+  - Comisión Reguladora de Energía: Morena integró a la ex comisionada Neus Peniche a la Secretaría de Energía y se dio la salida de 3 comisionados más, imposibilitando que el Pleno sesionara por varios meses. El Senado recibió cuatro ternas para cubrir las vacantes, pero los perfiles no tenían la preparación ni los conocimientos para ser parte de la CRE. El comisionado presidente, Guillermo García Alcocer, renunció luego de recibir a sus nuevos colegas.
+  - CONEVAL: Luego de un choque con la secretaria de bienestar, María Luisa Albores, se separó de su cargo al Director de la instancia que evalúa los programas sociales y la medición multidimensional de la pobreza, Gonzalo Hernández Licona. El choque se dio a raíz de la incomprensión de las herramientas estadísticas por parte de Albores y terminó con la llegada de José Nabor al lugar de Hernández Licona. La metodología empleada por CONEVAL ha recibido reconocimientos a nivel internacional y se ha replicado en otros países del mundo. Nabor es un personaje cercano al canciller Marcelo Ebrard y después de este episodio, AMLO dijo que está evaluando desaparecer al CONEVAL por razones de austeridad y que INEGI absorba sus funciones.
+  
+2. Cooptar jugadores
+  - Partido Verde Ecologista de México: Las sospechas de una posible alianza del partido que se vende al mejor postor y Morena iniciaron el día que, con dos votaciones y línea de por medio, se concedió licencia para separarse del Senado al entonces gobernador con licencia de Chiapas, Manuel Velasco, para que terminara su periodo de gobierno y luego regresara a su escaño. El Verde ha votado con regularidad a favor de los proyectos de ley presentados por Morena y es el nuevo aliado elecotral en la coalición Juntos Haremos Historia, sustituyendo a Encuentro Social.
+  - Ex perredistas: 7 diputados renunciaron al PRD varios meses después de iniciada la LXIV Legislatura. Con el voto de estos diputados disidentes y del PVEM, Morena logra sumar la mayoría calificada en San Lázaro.
+  
+3. Cambiar reglas
+  - Estamos ante la primera ocasión en décadas que el partido que controla la Presidencia y el Congreso impulsa una reforma electoral usando sus banderas de austeridad y anticorrupción para alterar el sistema electoral y las instituciones que organizan las elecciones. Morena planea desaparecer los OPLES y que los Consejos Locales del INE absorban sus funciones, o bien, desparecer al Consejo General del INE y poner una junta técnica cuyos integrantes serían nombradas por la mayoría calificada de la Cámara de Diputados que logra sumar Morena con sus aliados PT, PES, PVEM y ex perredistas.
