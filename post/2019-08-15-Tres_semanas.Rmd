@@ -1,0 +1,27 @@
+---
+title: "Mis tres primeras semanas en Lincoln"
+output: html_document
+date: 2019-08-15
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+Hoy cumplo 3 semanas en Lincoln, NE. Reseñaré lo vivido en estos primeros días de la aventura del posgrado que estoy por comenzar. 
+
+Lleguè el 25 de julio luego de 7 horas de escala en Houston. Conocí el City Campus de la Universidad de Nebraska-Lincoln en ese fin de semana y el lunes 29 inicié un pequeño curso de dos semanas sobre consejos y estrategias de cómo enseñar ya que estaré trabajando como Graduate Assistant mientras estudie. Este semestre de otoño 2019, estaré asignado al grupo del Dr. John Hibbing en el curso de Power and Politics in America como Teaching Assistant. 
+
+Tuve una cena con algunos estudiantes de otros años del posgrado. Muy agradables y dispuestos a ayudarnos a los que estamos llegando.
+
+En el curso conocí a mucha gente que está estudiando posgrados en distintas áreas, todos de países diferentes, con grandes historias y experiencias. Me resultó curioso que, tras solo 10 días, la convivencia entre culturas tan dispares, se convirtió en compañerismo ya que todos nos ayudábamos entre nosotros para remarcar lo bueno y lo malo que observábamos en las sesiones de microenseñanza de 10 minutos que teníamos asignadas cada día. 
+
+El shock cultural llegó por todos lados. Nunca había vivido en otro país que no fuera México ni convivido al mismo tiempo con gente de EUA, España, Colombia, Guatemala, Irán, Corea del Sur, China, Bangladesh, India, Alemania.
+
+El departamento donde viviré estará disponible a partir del 17 de agosto. Con ayuda contacté a una estudiante de maestría en ciencia política que me ofreció hospedarme a partir del 4 de agosto. La primera semana viví en un cuarto de hotel a unas cuadras del campus. 
+
+Las otras dos semanas las estoy pasando con la familia que me ofreció un lugar. Tdoos son muy amables y me recibieron con gusto y curiosidad. Es una pareja formada por un médico y una maestra que invierte su tiempo en voluntariado, con su hija que me ofreció el lugar y su nieta. He estado durmiendo en una cama que tienen en el sótano de su casa pero siento que mas que un huésped, fui un invitado estos días. El choque cultural fue enorme por la diferencia de costumbres al principio, pero me adapté: familia americana, judía, horarios de comida muy distintos a los que estaba acostumbrado, mucha comida vegetariana y orgánica porque cuando comen carne o pollo debe ser kosher, entre muchas cosas. 
+
+Otra cosa nueva para mí fue el transporte: la casa está en el sur de Lincoln y el campus entre el centro y el norte, por lo que diario tuve que caminar 10-15 minutos para esperar el camión y lo mismo de regreso, a diferencia de moverme en mi propio coche como estaba acostumbrado.
+
+El semestre inicia el 26 de agosto y tomaré clases de política comparada, política americana, métodos de estudio y un seminario de cómo enseñar. Mañana tengo una reunión con el profesor al que asistiré entre agosto y diciembre.
