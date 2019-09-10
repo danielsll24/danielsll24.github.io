@@ -1,0 +1,87 @@
+---
+title: "Proyecto de Ley de Ingresos 2020"
+output: html_document
+date: 2019-09-09
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+El 8 de septiembre el secretario de Hacienda entregó a la Cámara de Diputados el paquete económico para el ejercicio fiscal 2020. El paquete contiene la iniciativa de la Ley de Ingresos que deberá ser aprobada por San Lázaro a más tardar el 20 de octubre y turnarla al Senado que deberá votar antes del 31 de octubre. En el paquete también se incluye la Miscelánea Fiscal que prevee cambios a las leyes tributarias, así como el Proyecto del Presupuesto de Egresos de la Federación que se discutirá y aprobará únicamente en la Cámara de Diputados. 
+
+En esta entrada compararé la iniciativa de Ley de Ingresos del año pasado con la ley aprobada y con la iniciativa que se está por analizar. El análisis de la miscelánea y el presupuesto serán para próximas entradas. 
+
+La Ley de Ingresos especifica las fuentes y montos de los ingresos que el Gobierno Federal espera recibir en el año fiscal y sobre esto construye el Presupuesto de Egresos.
+
+id|	Proyecto 2019|	 LIF 2019| Proyecto 2020|	Concepto
+---|---:|---:|---:|---
+ISR	|1734924.2	|1752500.2|1846455.7|	Impuestos	
+IVA	|989011.3|995203.3|	1007546.0	|Impuestos	
+IEPS gasolina|	269300.5|269300.5|	342053.6|	Impuestos	
+IEPS bebidas alcohólicas	|16387.6|16387.6|	18888.4	|Impuestos	
+IEPS cervezas|	40902.2	|40902.2|43277.3|	Impuestos	
+IEPS tabaco	|43078.2|	43078.2|43679.4	|Impuestos	
+IEPS apuestas y sorteos|2971.2|2971.2|	2968.8|	Impuestos	
+IEPS telecom|	6086.2|6086.2|	5923.3	|Impuestos	
+IEPS energizantes|	4.6|4.6|	11.6	|Impuestos	
+IEPS saborizadas|	27958.5	|27958.5|28660.5	|Impuestos	
+IEPS alimentos calóricos|	24151.0|24151.0|	23783.2	|Impuestos	
+IEPS Plaguicidas|	828.3	|828.3|758.1	|Impuestos	
+IEPS combustibles fósiles	|6232.6	|6332.6|5729.3|	Impuestos	
+Impuestos a impotaciones|	70292.0|70292.0|	70984.6|	Impuestos	
+Accesorios de impuestos|	40721.6|40721.6|	41210.2	|Impuestos	
+Por exploración y extracción de hidrocarburos|	4501.9|4501.9|	6850.3|	Impuestos	
+Pendientes de pago|	-485.6|-485.6|	-130.8|	Impuestos	
+Seguridad Social patrones y trabajadores|	343133.4	|343133.4|374003.2|	Cuotas	
+Infraestructura hidráulica|	38.3|38.3|	44.8|	Mejoras	
+Uso de bienes de dominio público|	37559.5	|37559.5|42740.8	|Derechos	
+Prestación de servicios|	8714.1|8741.1|	8931.0	|Derechos	
+Productos, enajenación de bienes y Pronósticos|	6778.1	|6778.1|10095.3	|Productos	
+Multas|	2081.0	|2081.0|2190.5|	Aprovechamientos	
+Indemnizaciones|	2405.2|2405.2|	2531.7|	Aprovechamientos	
+Vigilancia forestal|	0.1	|0.1|0.1	|Aprovechamientos	
+Reintegros otros|	158.1|158.1|	166.4	|Aprovechamientos	
+Obras públicas hidráulicas|	102.4	|102.4|94.8	|Aprovechamientos	
+Concesionarios de vías de comunicación y abastecimiento eléctrico|	873.3	|873.3|947.8	|Aprovechamientos	
+Ley Federal de Juegos y Sorteos	|1148.3|1148.3|	1129.7	|Aprovechamientos	
+Contratistas de obras públicas|	7.2|7.2|	7.6|	Aprovechamientos	
+Fondo desarrollo forestal |	0.5	|0.5|0.5	|Aprovechamientos	
+Cuotas compensatorias	|135.3|135.3|	142.4	|Aprovechamientos	
+Otros	|60280.3|60280.3|	91427.5	|Aprovechamientos	
+CRE	|3.5|3.5|	0	|Aprovechamientos	
+Patrimoniales	|33.6	|33.6|35.4|	Aprovechamientos	
+IMSS|	23156.6|23156.6|	26920.2	|Venta de bienes y servicios	
+ISSSTE|	37023.3	|37023.3|45312.7	|Venta de bienes y servicios	
+PEMEX	|524291.6	|524291.6|574535.0	|Venta de bienes y servicios	
+CFE	|418226.0|418226.0|	418398.1	|Venta de bienes y servicios	
+Fondo Mexicano del Petróleo	|520665.2	|520665.2|412797.7|	Transferencias	
+Deuda interna del gobierno federal	|485345.2	|485345.2|532266.1|	Financiamientos	
+Diferimiento de pagos	|36030.1|36030.1|	37316|	Financiamientos	
+Déficit de organismos y empresas de control directo|	-40972.0|-40972.0|	-47748.8	|Financiamientos	
+Déficit de empresas productivas del estado|	59468.1	|59468.1|62623.5	|Financiamientos	
+TOTAL|5814291.7.0	|5838059.7|6085559.5|
+
+```{r include=FALSE}
+Sys.setlocale("LC_ALL","UTF-8")
+library(ggplot2)
+library(treemapify)
+LIF<-read.csv("/Volumes/DANIEL/LIF2020.csv",header=T)
+```
+
+En este treemap se puede apreciar la composición del Proyecto de Ley de Ingresos 2020. Se espera recaudar poco menos de 6.1 billones de pesos con una economía que presenta casi nulo crecimiento, en un ambiente de turbulencia mundial por la guerra comercial entre Estados Unidos y China, así como medidas arancelarias del vecino del norte contaminadas por la proximidad de las elecciones presidenciales de 2020. 
+
+Destaca que nuevamente se tomará dinero del Fondo Mexicano del Petróleo, en lugar de ahorrarlo para cuando en verdad se necesite. 
+
+```{r echo=FALSE}
+ggplot(data=LIF, aes(area=value_20, fill=Concepto, subgroup=Concepto))+
+  geom_treemap()+
+  geom_treemap_subgroup_border(colour="white",size=1)+
+  geom_treemap_subgroup_text(color="white")+
+  geom_treemap_text(aes(label=id), color="black")+
+  scale_x_continuous(expand = c(0, 0)) +
+  scale_y_continuous(expand = c(0, 0))+
+  scale_fill_brewer(palette="Set1",guide="legend")+theme(legend.position = "none")
+
+
+```
