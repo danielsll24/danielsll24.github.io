@@ -85,3 +85,34 @@ ggplot(data=LIF, aes(area=value_20, fill=Concepto, subgroup=Concepto))+
 
 
 ```
+
+
+El Proyecto de LIF del año pasado se veía así:
+
+```{r echo=FALSE}
+ggplot(data=LIF, aes(area=value_19, fill=Concepto, subgroup=Concepto))+
+  geom_treemap()+
+  geom_treemap_subgroup_border(colour="white",size=1)+
+  geom_treemap_subgroup_text(color="white")+
+  geom_treemap_text(aes(label=id), color="black")+
+  scale_x_continuous(expand = c(0, 0)) +
+  scale_y_continuous(expand = c(0, 0))+
+  scale_fill_brewer(palette="Set1",guide="legend")+theme(legend.position = "none")
+
+
+```
+
+Mientras que los ingresos aprobados para el ejercicio fiscal en curso se ven así:
+
+```{r echo=FALSE}
+ggplot(data=LIF, aes(area=LIF19, fill=Concepto, subgroup=Concepto))+
+  geom_treemap()+
+  geom_treemap_subgroup_border(colour="white",size=1)+
+  geom_treemap_subgroup_text(color="white")+
+  geom_treemap_text(aes(label=id), color="black")+
+  scale_x_continuous(expand = c(0, 0)) +
+  scale_y_continuous(expand = c(0, 0))+
+  scale_fill_brewer(palette="Set1",guide="legend")+theme(legend.position = "none")
+
+
+```
