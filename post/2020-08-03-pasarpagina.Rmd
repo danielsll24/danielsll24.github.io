@@ -1,0 +1,19 @@
+---
+title: "Pasar la página"
+output: html_document
+date: 2020-08-03
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+Después de meses sin escribir aquí estoy de regreso y esta será una entrada muy personal. Meses muy locos, llenos de difíciles desiciones, encierro solitario y la pandemia. Pero no todo es tan malo como suena, ya que al pasar esta página de mi vida me encuentro en algo mejor que lo que pudo ser y ya no será. 
+
+No es la primera vez que me encuentro ante una encrucijada en la que sé que debo tomar una decisión para poder sentirme mejor y así ocurrió en enero. La página anterior no era una que yo buscara escribir y continuar mi historia en ella, pero apareció ahí sin que yo la buscara y, de momento, me deslumbró y quise probarla. Lo que se iba escribiendo en ella no era de mi total agrado y me estaba afectando al estar muy distraido, a ratos absorto y buscando cómo pasar el tiempo y dejar de pensar en ello. A finales de enero decidí dar el paso que me permitiera conciliar el sueño otra vez y que no pasara lo que no tenía que pasar: la idea de estudiar un doctorado quedó atrás, en parte porque no me agradó la vida académmica, en parte porque no fue el lugar adecuado al no compartir intereses y no haber yo buscádolo sino que llegó por sí sólo (grave error). 
+
+En marzo que arrancó la pandemia, inició mi confinamiento completamente solo por espacio de dos meses, mientras terminaba el semestre y hasta que mi salud mental me lo empezaba a cobrar. Ya en mayo, con una semana a cuestas de no poder dormir más que tres horas diarias, tomé un vuelo de regreso a México con la idea de pasar la página y empezar a escribir un nuevo capítulo. 
+
+Reconozco que sí fue un año que me resultó frustrante en varios frentes: intereses que no encajan, esperar un nivel que me retara, un panorama a mediano plazo algo desolador, soledad en un mundo ajeno, gente esperando cosas de mí que no sucederían y algunas personas hostiles que creen que tirar verdades es el mejor aporte para cuando la estás pasando mal (aunque te las encuentras en todos lados).
+
+Llevo ya 3 meses en México y no tengo planes de regresar a esos fríos lares, 

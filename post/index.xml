@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog de Daniel Saavedra Lladó </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pasar la página</title>
+      <link>/2020/08/03/pasar-la-p%C3%A1gina/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/08/03/pasar-la-p%C3%A1gina/</guid>
+      <description>body { text-align: justify}  Después de meses sin escribir aquí estoy de regreso y esta será una entrada muy personal. Meses muy locos, llenos de difíciles desiciones, encierro solitario y la pandemia. Pero no todo es tan malo como suena, ya que al pasar esta página de mi vida me encuentro en algo mejor que lo que pudo ser y ya no será.
+No es la primera vez que me encuentro ante una encrucijada en la que sé que debo tomar una decisión para poder sentirme mejor y así ocurrió en enero.</description>
+    </item>
     
     <item>
       <title>Proyecto de Ley de Ingresos 2020</title>
