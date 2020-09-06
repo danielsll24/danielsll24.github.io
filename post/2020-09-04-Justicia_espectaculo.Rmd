@@ -1,0 +1,10 @@
+---
+title: "La justicia y el espectáculo"
+output: html_document
+date: 2020-09-04
+---
+<style>
+body {
+text-align: justify}
+</style>
+

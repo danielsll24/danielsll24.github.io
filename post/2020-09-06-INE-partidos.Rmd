@@ -1,0 +1,23 @@
+---
+title: "Demócrata cuando me conviene"
+output: html_document
+date: 2020-09-06
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+A unas horas de arrancar el proceso electoral 2020-2021, el INE se encontraba en medio de dos procesos que tendrán un impacto en las elecciones del próximo año: la renovación de la dirigencia nacional de Morena y el registro de nuevos partidos políticos. 
+
+**Dirigencia nacional de Morena**
+
+No es nuevo que el INE, antes IFE, participe en procesos de elección de dirigencias partidistas, pero su intervención se daba luego de que los partidos la pidieran y esta vez con Morena es distinto. Ante la incapacidad por parte del partido en el gobierno de organizar la renovación de su dirigencia, el Tribunal Electoral ordenó al INE llevar a cabo esta elección con cargo a las prerrogativas del partido y bajo la figura de una encuesta, de acuerdo a los estatutos del instituto político. Destacados morenistas acusan al Tribunal de injerencia en las actividades internas del partido, pero estos institutos políticos no son autónomos y deben seguir tanto la legislación electoral como sus obligaciones de transparencia entre las que se encuentra contar y publicar el padrón de militantes actualizado y ahí radica una de las complicaciones de este proceso. 
+
+El INE es quien organiza las elecciones y capacita a funcionarios de casilla, y no levanta encuestas ni cuenta con el personal para los ejercicios demoscópicos como se necesita en este caso. La suciedad del padrón de militancia ha llevado a que contendientes que levantaron la mano para participar por los cargos no figuren en el listado y esto dificulte su participación, pero son los órganos internos y reglas del partido la cancha donde se deben dirimir estos conflictos, y no pedir al INE que los registre como militantes para poder participar. 
+
+**Partidos no tan nuevos**
+Durante la última sesión del Consejo General del INE, se discutió y votó por otorgar el registro a 7 asociaciones políticas que buscan figurar en la boleta de 2021 como partidos políticos. En la sesión destacó que todas las asociaciones cometieron diversas irregularidades en materias de fiscalización o de afrenta al carácter laico del estado en la forma de afiliación corporativa de personas sindicalizadas como militantes, aportaciones económicas irregulares, ministros de culto en calidad de dirigentes y militantes, afiliación de nuevos militantes en recintos religiosos entre otras. 
+
+Quienes están detrás de todas las posibles nuevas opciones políticas son caras conocidas de la política mexicana como la familia de la exlidereza del SNTE, Elba Esther Gordillo; la estructura sindical del SNTE que estuvo detrás de Nueva Alianza; Manuel Espino, exdirigente panista que hoy colabora con el gobierno de AMLO; Pedro Haces, senador suplente de Morena y líder sindical; expriistas como César Santiago y dos más que avanzaron en comisiones y generaron polémica por los motivos del debate: Encuentro Solidario, antes Social; y la organización encabezada por la excandidata independiente a la presidencia Margarita Zavala y el expresidente Felipe Calderón. Solamente el PES regresará, lamentablemente, a la boleta pero se puede ver la proliferación de nuevos partidos, todos en manos de liderazgos ya caducos y caciquizmos políticos y sindicales. 
+
