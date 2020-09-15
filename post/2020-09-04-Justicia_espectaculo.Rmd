@@ -2,12 +2,14 @@
 title: "La justicia del espectáculo"
 output: html_document
 date: 2020-09-15
+fontsize: 10pt
 ---
 <style>
 body {
 text-align: justify}
 </style>
 
+En los últimos meses hemos sido testigos de 3 casos donde se pretende hacer justicia pero se tratan de meros espectáculos que logran distraernos de los problemas sanitarios y económicos causados por el gobierno y la pandemia por COVID-19.
 
 **La consulta**
 
@@ -17,8 +19,14 @@ En ese marco, Morena inició la infructuosa recolección de firmas (2% de la lis
 
 La consulta es preocupante por varios motivos: la pregunta resultará inconstitucional luego de que la revise la Corte, atenta contra la presunción de inocencia que toda persona goza antes de que se le prueben delitos, atenta contra la autonomía constitucional de la Fiscalía por ordenar qué hacer. Si la consulta procede, AMLO usará los meses previos al 1 de agosto para hacer campaña por el Sí, mismos meses en los que serán las campañas para las elecciones de junio 2020 y contaminará el proceso electoral. Si la consulta no procede por tratarse de un tema de derechos humanos, culpará al pleno de la Corte de no estar con el pueblo o de ser comparsa de los expresidentes y procederá a una consulta ilegal como las que ha hecho (NAIM, Morelos, Constellation Brands) y un juicio sumario. Ni la justicia ni los derechos humanos se consultan popularmente.
 
+
 **Lozoya**
 
+Otro caso con el que el ejecutivo ha lucrado desde su estrado mañanero es el proceso judicial al que es sujeto el exdirector de PEMEX en el sexenio anterior. Lozoya fue detenido en España y extraditado en México donde ha gozado de varios privilegios como hospedarse en el Hospital Ángeles del Pedregal a su llegada. Diversos delitos están en la fila del caso, desde recibir financiamiento ilícito para la campaña presidencial de 2012 hasta manejos sucios de las compras y actividades de la petrolera estatal. 
+
+El espectáculo que AMLO ha montado desde Palacio Nacional transmitiendo desde ahí pruebas y videos, así como filtrar la declaración a los medios y redes sociales, pueden obstaculizar el proceso judicial de manera que será más difícil impartir justicia sobre uno de los artífices de la enorme corrupción que caracterizó al sexenio peñanietista. 
+
+El tema Lozoya cayó en deshuso luego de que se revelara el financiamiento irregular de Morena previo a las elecciones de 2018, donde el gobierno de Chiapas a través de operadores del PVEM entregaran efectivo a la campaña amloista sin pasar por la fiscalización del INE y excedieran los montos permitidos. El pago de favores de Morena al Verde ha ido desde conceder licencia al senador Velasco para terminar su periodo de gobierno, convertirse en socio de las coaliciones legislativa y electoral, encabezar Protección Civil y un órgano nuevo que vigilaría la compra de medicamentos y presidir el Senado.
 
 
 **El avión**
