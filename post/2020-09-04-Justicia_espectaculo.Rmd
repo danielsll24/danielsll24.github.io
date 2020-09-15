@@ -1,10 +1,28 @@
 ---
-title: "La justicia y el espectáculo"
+title: "La justicia del espectáculo"
 output: html_document
-date: 2020-09-04
+date: 2020-09-15
 ---
 <style>
 body {
 text-align: justify}
 </style>
+
+
+**La consulta**
+
+
+**Lozoya**
+
+**El avión**
+
+En medio de otra ridícula simulación disfrazada de justicia, hoy se llevará a cabo la supuesta rifa del avión presidencial. La aeronave arrendada que estuvo varios meses estacionada en California ha servido de pretexto para el discurso presidencial de austeridad y se opone a gastos onerosos en representación del pueblo pobre. Nos encontramos ante otro episodio demagógico que busca distraer nuestra atención de las más de 71 mil defunciones por COVID-19 y la crisis económica que atravesamos. 
+
+Deshacerse del avión se ha vendido como un acto de justicia y como parte del discurso de austeridad enmarcado en el populismo de que no puede el representante 'único y genuino' del pueblo utilizarlo si el pueblo es pobre, pero probablemente el gasto por la renta del estacionamiento en California, el mantenimiento a la aeronave, los viajes de las comitivas y vuelos en naves de las fuerzas armadas que acompañan las giras, así como el monto ya pagado del arrendamiento superan lo que se podría recuperar con la eventual venta.
+
+La contingencia por COVID-19 y el sorteo organizado por la Lotería Nacional crearon otra oportunidad para que continúe distrayendo a la opinión pública con el tema. Para el sorteo se imprimieron 6 millones de boletos con un precio de 500 cada uno, número y precio muchas veces superiores a los sorteos habituales, pero la trampa está en que se obligó 'voluntariamente' a cientos de burócratas a comprarlos y se utilizaron 500 millones de pesos recuperados por la Fiscalía para comprar un millón de boletos y entregarlos a los hospitales del sector salud en lugar de reintegrar el dinero a la hacienda pública y destinarlo a la contingencia sanitaria. El INSABI erogó más de 7 mil millones de pesos para entregar 51 mil boletos a los hospitales del sector público y, en caso de resultar ganadores, destinar el premio a equipo médico. 
+
+
+
+
 
