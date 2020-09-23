@@ -1,0 +1,35 @@
+---
+title: "El púlpito presidencial y cómo volver relevante lo irrelevante"
+output: html_document
+date: 2020-09-22
+fontsize: 10pt
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+**El púlpito presidencial**
+
+Es innegable que los dichos que emanan desde la palestra presidencial no tengan trascendencia en la agenda y la opinión pública, especialmente si sumamos dos variables más: la polarización del discurso *nosotros contra ellos* en busca de enemigos, y las potenciales implicaciones que tienen los dichos de un presidente que ha concentrado el discurso y más poder. 
+
+Sin obviar las muertes de periodistas en el ejercicio de su profesión en los últimos años y las omisiones de los gobiernos, los ataques a medios de comunicación -Reforma, Letras Libres, Nexos- y periodistas en lo individual, así como uso de la agencia noticiosa gubernamental -Aristegui- no se han hecho esperar, complicando aún más el ambiente. Otras víctimas del *bully pulpit* fueron las organizaciones de la sociedad civil y think tanks que reciben financiamiento de fundaciones extranjeras. El crimen de los medios y OSC ha sido no acompañar el discurso oficialista y realizar su trabajo, que desde los ojos del gobierno, quien no está con el ejecutivo automáticamente está en su contra, se convierte en conservador y reaccionario y se opone a la transformación (lo que signifique).
+
+Las conjuras proferidas desde el púlpito presidencial están enmarcadas en la narrativa que niega el pluralismo, propia de un populista: ¿quién tiene la legitimidad de ocuparse de asuntos públicos?, ¿quién puede criticar al gobierno en turno?. La segunda dimensión del populismo se ve reflejada no solo en el discurso presidencial de que los medios y periodistas criticados formaron una élite a la que ya se le desplazó y por ello, sus voces ya no están autorizadas para expresarse y ser escuchadas. Esta dimensión también se hizo presente a raíz de la publicación del desplegado de las 650 personas con el contradesplegado de las 28,000 firmas buscando que el segundo, por contener los nombres de personajes cercanos al gobierno y gente común, pudieran superponerse al firmado por gente de la academia y sector cultural. 
+
+Ambos grupos deben tener garantizado el derecho a la expresión y a publicar sus ideas y desplegados, así como a entablar debates sobre asuntos públicos y criticar o apoyar al gobierno en tanto que todos son ciudadanos, pero las palabras que salen de Palacio Nacional pesan y pueden originar temores que deriven en autocensura, miedo al escarnio o sanciones desproporcionadas. 
+
+**Volver relevante lo irrelevante**
+
+Dos acciones que sucedieron en los últimmos días pasaron de donde debieron quedarse a colocarse en el centro de la agenda: El plantón del FRENAAA y la reaparición del excandidato panista a la presidencia Ricardo Anaya.
+
+El FRENAAA es un movimiento cuyo motivo de existir es la renuncia de AMLO a la presidencia, tal como el hoy presidente lo buscara con su antecesor Peña Nieto. Un movimiento que se defina como anti-algo carece de agenda, narrativa y propuestas, ya que solo existe por y para oponerse, cayendo en el discurso *nosotros contra ellos* como el otro lado de la misma moneda. 
+
+Este movimiento ha agrupado diversas expresiones categorizadas dentro de la derecha en el espectro ideológico con expresiones que niegan derechos y discriminatorias, protestas desde sus automóviles contra la política ambiental del gobierno, y acusasiones de que el actual gobierno federal es comunista o llamar soviéticas a integrantes del gobierno. El FRENAAA no existiría sin AMLO y AMLO es su razón de existir, es un movimiento que no trascenderá por lo corta de su agenda y su no articulación electoral aunque podrían impulsar candidaturas independientes. Lo que sí es que constituye el vehículo por el que expresiones de derecha ajenas a partidos políticos se han conjuntado y expresado con la consecuente descalificación por tratarse de gente que protesta desde sus coches o con un plantón en el Centro Histórico -como AMLO hiciera hace 14 años- con casas de campaña nuevas y en su mayoría vacías e incluir elementos religiosos en sus actos que se pueden expresar en la arena privada y no llevarlos a asuntos públicos, especialmennte toda vez que se cruce la línea de acciones discriminatorias o proponer políticas públicas y legislación con infusión religiosa.
+
+Esta protesta y el movimiento social que la encabeza debió pasar desapercibido y quedar en la irrelevancia, pero el gobierno local y federal se encargaron de subirlos a una posición a la vista de la agenda pública al no permitir su avance al Zócalo y uso de granaderos, situaciones que causaron reclamo y cierta notoriedad en los medios de comunicación. 
+
+El otro suceso al que el gobierno se encargó de amplificar al meter el caso a la contienda interna por la dirigencia nacional de Morena en voz de Porfirio Muñoz Ledo y usar el brazo armado del gobierno, la Unidad de Inteligencia Financiera de la Secretaría de Hacienda, fue el regreso de Ricardo Anaya a la arena política. El anuncio de su revivir político se dio junto con una crítica por encima a la gestión del ejecutivo y el anuncio de un libro. 
+
+Muñoz Ledo, quien tiene los reflectores encima por ser candidato a la dirigencia nacional de Morena, dirigió unas palabras a Anaya en un video, molesto por las acusasiones proferidas contra el gobierno federal exgiendo pruebas. Por otro lado y derivado de las denuncias de Emilio Lozoya quien ha estado callado por varias semanas, la UIF informó que el excandidato azul está bajo investigación luego de que el exdirector de PEMEX mencionara su nombre en sus denuncias. Estas dos acciones catapultan de regreso a la agenda nacional al panista, cuya carrera política parecía haber terminado luego de obtener el segundo lugar en las elecciones de 2018.
+
