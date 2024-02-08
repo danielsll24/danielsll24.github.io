@@ -1,0 +1,12 @@
+---
+title: "El Ejecutivo en campaña"
+author: "Daniel Saavedra Lladó"
+date: "2024-02-08"
+output: html_document
+---
+
+El pasado 5 de febrero, en lugar de conmemorar el aniversario 107 de nuestra Carta Magna, el titular del Ejecutivo Federal optó por presentar una ambiciosa agenda de iniciativas de reforma legislativa -18 constitucionales y 2 legales- a menos de un mes de que inicien las campañas para la renovación de la presidencia de México.
+
+Con este acto, el contenido de las propuestas y la omisión de participar en la efeméride, además de saber con antelación que el Congreso de la Unión rechazará las propuestas y la incapacidad reiterada de la coalición oficialista de negociar votos de la oposición en ambas cámaras, presidencia atenta contra la Constitución del mismo Estado mexicano, situación que se vuelve patente al revisar el contenido de algunas de las reformas: terminar con los órganos autónomos, acabar con las diputaciones de representación proporcional, proscribir las senadurías de primera minoría y de la lista nacional, supeditar al Poder Judicial y reformar al INE.
+
+Estas acciones meten de lleno a Presidencia en la campaña que inicia el 1ro de marzo, periodo en que la publicidad oficial debe limitarse solamente a temáticas sobre salud, educación y protección civil, para permitir el uso de los tiempos del Estado por los partidos políticos, candidaturas e instituciones electorales. Es así que en la agenda de discusión -analistas, candidaturas, medios de comunicación, encuestas y Congreso- comenzarán a dar vueltas alrededor de estas 20 propuestas que robarán el foco de atención de las plataformas electorales de los partidos y de las propuestas de campaña.
