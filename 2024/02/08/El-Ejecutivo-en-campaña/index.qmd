@@ -1,7 +1,6 @@
 ---
 title: "El Ejecutivo en campaña"
 format: html
-editor: visual
 ---
 
 El pasado 5 de febrero, en lugar de conmemorar el aniversario 107 de nuestra Carta Magna, el titular del Ejecutivo Federal optó por presentar una ambiciosa agenda de iniciativas de reforma legislativa -18 constitucionales y 2 legales- a menos de un mes de que inicien las campañas para la renovación de la presidencia de México.
