@@ -8,6 +8,10 @@ Primero analizaré las modificaciones planteadas a la elección de diputaciones 
 
 La iniciativa de reforma a los artículos 52 y 56 busca reducir el número de diputaciones a 300 y de senadurías a 64, al desaparecer a los 200 electos por representación proporcional en las 5 circunscripciones, así como a los 32 escaños de primera minoría y los 32 restantes de representación proprocional por la lista nacional. Esto mismo se plantea aplicar también en las legislaturas de las 32 entidades federativas.
 
-De aprobar la nueva conformación del legislativo,
+De aprobar la nueva conformación del legislativo y utilizando solamente la regla de mayoría para la elección en cada uno de los distritos y entidades, se profundizaría la sobrerrepresentación de los partidos que ganen los distritos y subrepresentación de los partidos que no se alcen con las victorias.
+
+Este fenómeno se debe al efecto mecánico de la regla de mayoría, ya que aquella candidatura o partido que se alce en un estado o distrito con mayor cantidad de votos que cualquiera otra, se lleva automáticamente el cargo por lo que en una elección con 3 opciones, se puede ganar con al menos el 34% de los votos y dejar sin representación a aquellas personas que votaron por las dos candidaturas que perdieron.
+
+Para poner un ejemplo; en 2021 de acuerdo con los resultados publicados por el INE para la Cámara de Diputados, la coalición Morena-PT-PVEM lograron la mayoría de los votos en 121 distritos electorales; la coalición PAN-PRI-PRD obtuvieron la mayoría en 63 distritos;
 
 aumentarían la sobrerrepresentación en el Congreso
